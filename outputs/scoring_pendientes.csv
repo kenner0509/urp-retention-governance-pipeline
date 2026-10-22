@@ -1,0 +1,172 @@
+id_estudiante_periodo,programa_academico,modalidad,prob_no_continuar,nivel_riesgo,recomendacion
+EP-002540,Civil,Virtual,0.9901883365069019,Alto,Asignar tutoría/seguimiento prioritario
+EP-007422,Telecomunicaciones,Presencial,0.9735241998914451,Alto,Mantener acompañamiento y monitorear
+EP-004873,Industrial,Por encuentros,0.9683804319081588,Alto,Asignar tutoría/seguimiento prioritario
+EP-009060,Sistemas,Virtual,0.9633498206243016,Alto,Asignar tutoría/seguimiento prioritario
+EP-004454,Computación,Presencial,0.95607328936193,Alto,Asignar tutoría/seguimiento prioritario
+EP-009039,Telecomunicaciones,Por encuentros,0.9535149772254048,Alto,Asignar tutoría/seguimiento prioritario
+EP-006819,Telecomunicaciones,Presencial,0.9507846872019349,Alto,Asignar tutoría/seguimiento prioritario
+EP-008085,Sistemas,Por encuentros,0.9498031175288202,Alto,Asignar tutoría/seguimiento prioritario
+EP-002213,Telecomunicaciones,Virtual,0.9406131216779282,Alto,Asignar tutoría/seguimiento prioritario
+EP-004410,Telecomunicaciones,Virtual,0.9402144276378748,Alto,Asignar tutoría/seguimiento prioritario
+EP-008304,Industrial,Sin dato,0.9384031079655142,Alto,Asignar tutoría/seguimiento prioritario
+EP-006917,Computación,Virtual,0.9349682370881066,Alto,Asignar tutoría/seguimiento prioritario
+EP-006305,Telecomunicaciones,Presencial,0.9346672533328424,Alto,Asignar tutoría/seguimiento prioritario
+EP-003399,Telecomunicaciones,Presencial,0.9184891556131479,Alto,Asignar tutoría/seguimiento prioritario
+EP-001698,Telecomunicaciones,Virtual,0.9124478906896428,Alto,Asignar tutoría/seguimiento prioritario
+EP-005820,Sistemas,Virtual,0.9111233131040681,Alto,Mantener acompañamiento y monitorear
+EP-006982,Telecomunicaciones,Virtual,0.8909673998313026,Alto,Asignar tutoría/seguimiento prioritario
+EP-003296,Telecomunicaciones,Por encuentros,0.8549418605244844,Alto,Asignar tutoría/seguimiento prioritario
+EP-007059,Telecomunicaciones,Presencial,0.8449798568308794,Alto,Asignar tutoría/seguimiento prioritario
+EP-003579,Industrial,Por encuentros,0.8397957418596175,Alto,Asignar tutoría/seguimiento prioritario
+EP-006896,Sistemas,Presencial,0.8259428013625877,Alto,Mantener acompañamiento y monitorear
+EP-003906,Civil,Presencial,0.8221095609141497,Alto,Asignar tutoría/seguimiento prioritario
+EP-007674,Civil,Presencial,0.8190920958091502,Alto,Asignar tutoría/seguimiento prioritario
+EP-006946,Telecomunicaciones,Presencial,0.817783951655166,Alto,Mantener acompañamiento y monitorear
+EP-004057,Telecomunicaciones,Virtual,0.8098199949864111,Alto,Mantener acompañamiento y monitorear
+EP-004211,Civil,Virtual,0.8064571114147632,Alto,Asignar tutoría/seguimiento prioritario
+EP-003976,Computación,Virtual,0.8052663102817571,Alto,Asignar tutoría/seguimiento prioritario
+EP-003674,Civil,Presencial,0.798282070172505,Alto,Asignar tutoría/seguimiento prioritario
+EP-002023,Industrial,Virtual,0.7843430630127338,Alto,Asignar tutoría/seguimiento prioritario
+EP-007004,Telecomunicaciones,Virtual,0.7802938854920046,Alto,Asignar tutoría/seguimiento prioritario
+EP-004659,Industrial,Virtual,0.7736783017187852,Alto,Asignar tutoría/seguimiento prioritario
+EP-008181,Telecomunicaciones,Virtual,0.7666353188755975,Alto,Asignar tutoría/seguimiento prioritario
+EP-000599,Civil,Por encuentros,0.755080337538831,Alto,Asignar tutoría/seguimiento prioritario
+EP-004242,Industrial,Virtual,0.7542057317218306,Alto,Asignar tutoría/seguimiento prioritario
+EP-004243,Civil,Presencial,0.7540626023148709,Alto,Asignar tutoría/seguimiento prioritario
+EP-008822,Sistemas,Por encuentros,0.7506842650614871,Alto,Mantener acompañamiento y monitorear
+EP-004468,Civil,Virtual,0.7241064159208598,Alto,Asignar tutoría/seguimiento prioritario
+EP-009040,Civil,Virtual,0.7235713921458794,Alto,Mantener acompañamiento y monitorear
+EP-008857,Telecomunicaciones,Virtual,0.7229773915262087,Alto,Asignar tutoría/seguimiento prioritario
+EP-009720,Computación,Virtual,0.7222311061945667,Alto,Mantener acompañamiento y monitorear
+EP-004462,Civil,Presencial,0.7213839533749987,Alto,Asignar tutoría/seguimiento prioritario
+EP-003412,Computación,Por encuentros,0.7207222841509086,Alto,Asignar tutoría/seguimiento prioritario
+EP-009552,Industrial,Presencial,0.7195337011306537,Alto,Asignar tutoría/seguimiento prioritario
+EP-008814,Telecomunicaciones,Presencial,0.7181820746176552,Alto,Asignar tutoría/seguimiento prioritario
+EP-000168,Sistemas,Presencial,0.7162820451101453,Alto,Asignar tutoría/seguimiento prioritario
+EP-008988,Industrial,Presencial,0.6960322834865563,Alto,Mantener acompañamiento y monitorear
+EP-007162,Industrial,Presencial,0.6945016799972868,Alto,Asignar tutoría/seguimiento prioritario
+EP-004529,Telecomunicaciones,Virtual,0.6852165946145193,Alto,Asignar tutoría/seguimiento prioritario
+EP-002020,Civil,Sin dato,0.6830678620201114,Alto,Asignar tutoría/seguimiento prioritario
+EP-006400,Sistemas,Presencial,0.6788956586690117,Alto,Asignar tutoría/seguimiento prioritario
+EP-005653,Computación,Por encuentros,0.6764560460240486,Alto,Asignar tutoría/seguimiento prioritario
+EP-001765,Computación,Presencial,0.6732753521862587,Alto,Asignar tutoría/seguimiento prioritario
+EP-002240,Civil,Por encuentros,0.6731186969680996,Alto,Asignar tutoría/seguimiento prioritario
+EP-008922,Telecomunicaciones,Virtual,0.6698558788978783,Alto,Asignar tutoría/seguimiento prioritario
+EP-001731,Sistemas,Virtual,0.6642182168958213,Alto,Asignar tutoría/seguimiento prioritario
+EP-005295,Industrial,Virtual,0.6627494499836891,Alto,Asignar tutoría/seguimiento prioritario
+EP-008653,Civil,Por encuentros,0.6569514130084906,Alto,Asignar tutoría/seguimiento prioritario
+EP-008333,Civil,Virtual,0.6550128041832615,Alto,Asignar tutoría/seguimiento prioritario
+EP-006112,Sistemas,Virtual,0.646020909795304,Medio,Monitoreo regular
+EP-003609,Computación,Presencial,0.6418933960921875,Medio,Monitoreo regular
+EP-006891,Civil,Por encuentros,0.6301814087295106,Medio,Monitoreo regular
+EP-006312,Industrial,Virtual,0.6282264091300704,Medio,Monitoreo regular
+EP-000019,Computación,Virtual,0.6253623300604946,Medio,Monitoreo regular
+EP-003839,Sistemas,Presencial,0.622162400946701,Medio,Monitoreo regular
+EP-000562,Computación,Presencial,0.6210022628921611,Medio,Monitoreo regular
+EP-002810,Civil,Virtual,0.6130874562347921,Medio,Monitoreo regular
+EP-001763,Civil,Virtual,0.6068482661533425,Medio,Monitoreo regular
+EP-004619,Sistemas,Virtual,0.5925411255682173,Medio,Monitoreo regular
+EP-006043,Sistemas,Por encuentros,0.5859798387601287,Medio,Monitoreo regular
+EP-008607,Telecomunicaciones,Por encuentros,0.5756489775672663,Medio,Monitoreo regular
+EP-001791,Telecomunicaciones,Virtual,0.5499655941244908,Medio,Monitoreo regular
+EP-005643,Sistemas,Presencial,0.5430893673702945,Medio,Monitoreo regular
+EP-008927,Sistemas,Presencial,0.5425548502121529,Medio,Monitoreo regular
+EP-000106,Sistemas,Virtual,0.5356600006704741,Medio,Monitoreo regular
+EP-002814,Sistemas,Virtual,0.5336019951672636,Medio,Monitoreo regular
+EP-004511,Computación,Virtual,0.5287499582900411,Medio,Monitoreo regular
+EP-004759,Sistemas,Presencial,0.5269082937328357,Medio,Monitoreo regular
+EP-008451,Civil,Por encuentros,0.5263828581622029,Medio,Monitoreo regular
+EP-004778,Civil,Virtual,0.5217464681167768,Medio,Monitoreo regular
+EP-002794,Industrial,Virtual,0.5097390768624503,Medio,Monitoreo regular
+EP-007970,Sistemas,Virtual,0.507343826554904,Medio,Monitoreo regular
+EP-008650,Sistemas,Presencial,0.5048286257244806,Medio,Monitoreo regular
+EP-001189,Industrial,Por encuentros,0.4893728811572214,Medio,Monitoreo regular
+EP-001701,Sistemas,Virtual,0.48091676491111496,Medio,Monitoreo regular
+EP-007033,Telecomunicaciones,Presencial,0.47775940732076205,Medio,Monitoreo regular
+EP-007189,Civil,Virtual,0.4772192435839867,Medio,Monitoreo regular
+EP-007950,Computación,Por encuentros,0.47153014595194975,Medio,Monitoreo regular
+EP-002071,Sistemas,Virtual,0.4676598298334148,Medio,Monitoreo regular
+EP-000154,Computación,Presencial,0.46556507079731435,Medio,Monitoreo regular
+EP-009147,Industrial,Virtual,0.46022520202906825,Medio,Monitoreo regular
+EP-007983,Sistemas,Por encuentros,0.45932980287366465,Medio,Monitoreo regular
+EP-009728,Sistemas,Virtual,0.4588677678029227,Medio,Monitoreo regular
+EP-006167,Computación,Por encuentros,0.4561395197873056,Medio,Monitoreo regular
+EP-006856,Telecomunicaciones,Presencial,0.45250719605053735,Medio,Monitoreo regular
+EP-002045,Telecomunicaciones,Presencial,0.4491967338274385,Medio,Monitoreo regular
+EP-006006,Industrial,Presencial,0.4491019212917467,Medio,Monitoreo regular
+EP-005429,Industrial,Por encuentros,0.43755179357259594,Medio,Monitoreo regular
+EP-001270,Computación,Presencial,0.43413368023745247,Medio,Monitoreo regular
+EP-000771,Civil,Virtual,0.43188461315357807,Medio,Monitoreo regular
+EP-008553,Computación,Presencial,0.43166591209508076,Medio,Monitoreo regular
+EP-008812,Telecomunicaciones,Por encuentros,0.42055184148452635,Medio,Monitoreo regular
+EP-000781,Industrial,Virtual,0.4098737415869898,Medio,Monitoreo regular
+EP-006281,Telecomunicaciones,Presencial,0.40874744846068006,Medio,Monitoreo regular
+EP-008694,Computación,Virtual,0.40258169672411115,Medio,Monitoreo regular
+EP-000460,Sistemas,Presencial,0.3972752587690251,Medio,Monitoreo regular
+EP-003853,Civil,Presencial,0.39374805661210155,Medio,Monitoreo regular
+EP-009137,Telecomunicaciones,Virtual,0.3913337047374244,Medio,Monitoreo regular
+EP-009073,Sistemas,Virtual,0.3787723453696849,Bajo,Monitoreo regular
+EP-006222,Sistemas,Virtual,0.37798726703048924,Bajo,Monitoreo regular
+EP-004423,Industrial,Por encuentros,0.37390746693926785,Bajo,Monitoreo regular
+EP-009172,Industrial,Virtual,0.36945831137564455,Bajo,Monitoreo regular
+EP-008586,Telecomunicaciones,Presencial,0.3681757929940303,Bajo,Monitoreo regular
+EP-007685,Civil,Virtual,0.36803231367250044,Bajo,Monitoreo regular
+EP-008178,Industrial,Virtual,0.3473670844779208,Bajo,Monitoreo regular
+EP-006536,Civil,Por encuentros,0.3420167376144173,Bajo,Monitoreo regular
+EP-001768,Sistemas,Por encuentros,0.33524327241919555,Bajo,Monitoreo regular
+EP-002615,Sistemas,Presencial,0.2985480323851062,Bajo,Monitoreo regular
+EP-003366,Computación,Por encuentros,0.2927886172086229,Bajo,Monitoreo regular
+EP-002285,Industrial,Por encuentros,0.28265266914646225,Bajo,Monitoreo regular
+EP-003927,Sistemas,Presencial,0.281570810372044,Bajo,Monitoreo regular
+EP-007184,Sistemas,Virtual,0.273055219629666,Bajo,Monitoreo regular
+EP-004470,Industrial,Por encuentros,0.2705716440441562,Bajo,Monitoreo regular
+EP-005507,Computación,Presencial,0.2687767877660238,Bajo,Monitoreo regular
+EP-009045,Sistemas,Presencial,0.2674941432891405,Bajo,Monitoreo regular
+EP-003118,Civil,Virtual,0.26728704313928164,Bajo,Monitoreo regular
+EP-007914,Sistemas,Sin dato,0.2671748399680796,Bajo,Monitoreo regular
+EP-000043,Computación,Por encuentros,0.2579321508202756,Bajo,Monitoreo regular
+EP-005457,Industrial,Presencial,0.2563143387911692,Bajo,Monitoreo regular
+EP-002533,Industrial,Presencial,0.25586220706595025,Bajo,Monitoreo regular
+EP-007150,Civil,Por encuentros,0.2527484891479925,Bajo,Monitoreo regular
+EP-005363,Civil,Virtual,0.25090772325627475,Bajo,Monitoreo regular
+EP-007312,Computación,Por encuentros,0.24887363008303506,Bajo,Monitoreo regular
+EP-008802,Computación,Virtual,0.24757878612406456,Bajo,Monitoreo regular
+EP-000859,Computación,Presencial,0.23104241226387295,Bajo,Monitoreo regular
+EP-003437,Sistemas,Presencial,0.22832942481999885,Bajo,Monitoreo regular
+EP-007338,Telecomunicaciones,Presencial,0.22086224930670595,Bajo,Monitoreo regular
+EP-002633,Telecomunicaciones,Presencial,0.22046682774450838,Bajo,Monitoreo regular
+EP-009220,Civil,Por encuentros,0.21471877201608847,Bajo,Monitoreo regular
+EP-004599,Civil,Presencial,0.2082680490377744,Bajo,Monitoreo regular
+EP-001910,Sistemas,Virtual,0.20159129063750394,Bajo,Monitoreo regular
+EP-004467,Computación,Presencial,0.20073494402791028,Bajo,Monitoreo regular
+EP-000878,Industrial,Por encuentros,0.1979451788916431,Bajo,Monitoreo regular
+EP-000021,Telecomunicaciones,Presencial,0.19540276869349027,Bajo,Monitoreo regular
+EP-000010,Computación,Virtual,0.19354278946471762,Bajo,Monitoreo regular
+EP-004272,Telecomunicaciones,Presencial,0.18992239569539243,Bajo,Monitoreo regular
+EP-000573,Industrial,Virtual,0.1719722345895319,Bajo,Monitoreo regular
+EP-009078,Telecomunicaciones,Virtual,0.16921802850085305,Bajo,Monitoreo regular
+EP-008799,Telecomunicaciones,Presencial,0.16762223132898074,Bajo,Monitoreo regular
+EP-004208,Telecomunicaciones,Virtual,0.15832892169428733,Bajo,Monitoreo regular
+EP-002226,Civil,Presencial,0.15416714306737775,Bajo,Monitoreo regular
+EP-005216,Computación,Por encuentros,0.14760952930226304,Bajo,Monitoreo regular
+EP-005339,Industrial,Presencial,0.13735771008180367,Bajo,Monitoreo regular
+EP-007499,Telecomunicaciones,Virtual,0.13581569808669477,Bajo,Monitoreo regular
+EP-008659,Sistemas,Virtual,0.13410198884871105,Bajo,Monitoreo regular
+EP-003710,Telecomunicaciones,Presencial,0.13181433462316394,Bajo,Monitoreo regular
+EP-006297,Industrial,Virtual,0.1273717257256324,Bajo,Monitoreo regular
+EP-004142,Sistemas,Presencial,0.12211846365502634,Bajo,Monitoreo regular
+EP-003486,Computación,Por encuentros,0.11723181363287154,Bajo,Monitoreo regular
+EP-005598,Industrial,Por encuentros,0.11547875591075298,Bajo,Monitoreo regular
+EP-004622,Telecomunicaciones,Virtual,0.10319659222478876,Bajo,Monitoreo regular
+EP-002469,Computación,Presencial,0.10223266040999524,Bajo,Monitoreo regular
+EP-000743,Industrial,Por encuentros,0.09791411802411626,Bajo,Monitoreo regular
+EP-005469,Sistemas,Virtual,0.09389930208393216,Bajo,Monitoreo regular
+EP-006746,Civil,Presencial,0.08059668329970575,Bajo,Monitoreo regular
+EP-003134,Telecomunicaciones,Sin dato,0.08048229247008032,Bajo,Monitoreo regular
+EP-007930,Telecomunicaciones,Por encuentros,0.07456393113586052,Bajo,Monitoreo regular
+EP-009003,Civil,Presencial,0.06769360594954169,Bajo,Monitoreo regular
+EP-003552,Industrial,Presencial,0.05872253192424796,Bajo,Monitoreo regular
+EP-003282,Sistemas,Por encuentros,0.056849843732209936,Bajo,Monitoreo regular
+EP-005528,Industrial,Presencial,0.04304733521840659,Bajo,Monitoreo regular
+EP-006017,Industrial,Presencial,0.03837185115570926,Bajo,Monitoreo regular

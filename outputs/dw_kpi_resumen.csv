@@ -1,0 +1,11 @@
+KPI,Nombre,Valor,Unidad,Meta,Umbral alerta,Estado,Nota
+KPI-01,FCR de Ingesta,93.53,%,≥ 95%,< 90%,🟡 Vigilar,Proxy: registros sin duplicado/rango/catálogo/fecha inválidos (no hay logs ETL en v0).
+KPI-02,MTTR de Ingesta (proxy),4.75,días,≤ 2 días,> 4 días,🔴 Alerta,Proxy con fecha_carga − fecha_inicio_periodo (mediana=3 d). Faltan timestamps de lote.
+KPI-03,Multiprograma,,%,Tendencia,±20%,N/C,NO CALCULABLE: v0 no trae ID persistente de estudiante ni segundo programa. Solicitar a Registro Académico.
+KPI-04,Registros con errores de calidad,20.0,%,≤ 3%,> 5%,🔴 Alerta,"Precisión (rangos), consistencia (duplicados, catálogos, fechas) y completitud."
+KPI-05,Oportunidad de carga (Timeliness),90.1,%,≥ 95%,< 90%,🟡 Vigilar,SLA supuesto = 7 días desde inicio de periodo (validar con TI).
+KPI-06,Completitud de registro,85.4,%,≥ 98%,< 95%,🔴 Alerta,Campos críticos definidos en config.CAMPOS_CRITICOS.
+KPI-07,Cobertura de intervención (proxy),16.79,%,≥ 90%,< 80%,🔴 Alerta,"Riesgo = ≥2 alertas (promedio, asistencia, inactividad, reprobación). Atendido = beca_o_apoyo='Tutoría académica'."
+KPI-08,Inactividad en campus virtual,3.54,%,≤ 10%,> 20%,🟢 Cumple,Solo modalidad Virtual (ficha). Umbral de inactividad supuesto en config.
+KPI-09,No continuidad por corte,43.85,%,≤ 38.1% (−15% vs base 44.8%),> 41.9%,🔴 Alerta,Último semestre vs línea base 2025-S1. Ref. anual comparable: 18% (no equivalente a tasa por periodo).
+KPI-10,Deserción de acompañados,44.04,%,≤ 15%,> 25%,🔴 Alerta,Ojo: sesgo de selección (solo ingresan estudiantes ya en riesgo).

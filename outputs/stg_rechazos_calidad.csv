@@ -1,0 +1,646 @@
+id_estudiante_periodo,fecha_inicio_periodo,programa_academico,modalidad,condicion_ingreso,asignatura_critica,promedio_periodo,asistencia_pct,accesos_campus_virtual,asignaturas_reprobadas,beca_o_apoyo,sistema_origen,no_continua_siguiente_periodo,autorizacion_uso_analitico,fecha_carga,motivo_rechazo
+EP-005427,2025-12-06,Telecomunicaciones,Por encuentros,Continuidad,Física I,70.0,,59.0,1.0,Beca completa,Bienestar,0.0,Sí,2025-12-10,POL-CAL-01 registro duplicado
+EP-000404,2025-10-26,Sistemas,Virtual,Continuidad,Estadística,,62.2,81.0,3.0,Tutoría académica,SIGA,0.0,Sí,2025-10-26,POL-CAL-01 registro duplicado
+EP-007538,2026-01-04,Sistemas,Virtual,Continuidad,Estadística,62.5,67.3,35.0,1.0,Sin beca,SIGA,1.0,Sí,2026-01-06,POL-CAL-01 registro duplicado
+EP-001658,2025-05-03,Civil,Por encuentros,Nuevo ingreso,Matemática I,70.7,67.0,59.0,1.0,Sin beca,Bienestar,1.0,No,2025-05-04,POL-CAL-01 registro duplicado
+EP-002730,2025-12-27,Telecomunicaciones,Por encuentros,Continuidad,Matemática I,76.6,91.3,69.0,0.0,Beca completa,Bienestar,0.0,Sí,2026-02-02,POL-CAL-01 registro duplicado
+EP-009272,2025-04-06,Civil,Virtual,Continuidad,Estadística,67.6,67.3,81.0,1.0,Beca completa,Moodle,0.0,Sí,2025-04-06,POL-CAL-01 registro duplicado
+EP-009031,2025-05-14,Sistemas,Presencial,Continuidad,Bases de datos,74.1,91.0,74.0,0.0,Sin beca,SIGA,0.0,Sí,2025-05-19,POL-CAL-01 registro duplicado
+EP-005498,2025-11-02,Telecomunicaciones,Por encuentros,Continuidad,Física I,72.5,79.3,69.0,0.0,Sin beca,Moodle,0.0,Sí,2025-11-02,POL-CAL-01 registro duplicado
+EP-003504,2026-06-03,Industrial,Por encuentros,Nuevo ingreso,Matemática I,72.5,81.5,70.0,1.0,Beca parcial,Moodle,0.0,Sí,2026-06-08,POL-CAL-01 registro duplicado
+EP-004712,2026-03-07,Telecomunicaciones,Virtual,Continuidad,Matemática I,58.2,62.2,36.0,4.0,Beca completa,Archivo CSV,1.0,Sí,2026-03-07,POL-CAL-01 registro duplicado
+EP-001749,2026-06-15,Civil,Virtual,Continuidad,Matemática I,60.4,61.7,76.0,2.0,Beca completa,Moodle,1.0,Sí,2026-06-17,POL-CAL-01 registro duplicado
+EP-006960,2026-04-05,Sistemas,Presencial,Continuidad,Física I,67.4,82.1,82.0,1.0,Sin beca,SIGA,0.0,Sí,2026-04-05,POL-CAL-01 registro duplicado
+EP-006047,2026-01-16,Sistemas,Virtual,Nuevo ingreso,Programación I,62.1,87.9,63.0,1.0,Sin beca,SIGA,0.0,Sí,2026-01-19,POL-CAL-01 registro duplicado
+EP-003582,2025-09-21,Industrial,Virtual,Reingreso,Matemática I,61.5,52.1,80.0,2.0,Tutoría académica,Moodle,1.0,Sí,2025-09-26,POL-CAL-01 registro duplicado
+EP-003048,2026-04-04,Sistemas,Por encuentros,Continuidad, Matemática I ,87.0,85.1,91.0,12.0,Sin beca,Moodle,0.0,No,2026-04-06,POL-CAL-01 registro duplicado
+EP-003693,2025-05-07,Sistemas,Por encuentros,Continuidad,Física I,84.1,88.7,101.0,0.0,Sin beca,Bienestar,0.0,Sí,2025-05-12,POL-CAL-01 registro duplicado
+EP-006594,2025-10-28,Telecomunicaciones,Por encuentros,Continuidad,Bases de datos,61.0,69.8,48.0,3.0,Tutoría académica,SIGA,1.0,Sí,2025-10-31,POL-CAL-01 registro duplicado
+EP-005358,2025-12-09,Sistemas,Presencial,Continuidad,Programación I,53.4,64.3,0.0,2.0,Sin beca,Archivo CSV,0.0,Sí,2025-12-09,POL-CAL-01 registro duplicado
+EP-004794,2025-05-18,Sistemas,Virtual,Reingreso,Bases de datos,56.1,69.9,48.0,3.0,,SIGA,1.0,Sí,2025-05-19,POL-CAL-01 registro duplicado
+EP-004077,2026-01-01,Telecomunicaciones,Virtual,Reingreso,Matemática I,76.4,87.8,98.0,0.0,Tutoría académica,SIGA,0.0,Sí,2026-01-02,POL-CAL-01 registro duplicado
+EP-006739,2026-06-21,Civil,Presencial,Reingreso,Matemática I,73.7,85.1,96.0,0.0,Beca parcial,SIGA,0.0,Sí,2026-07-24,POL-CAL-01 registro duplicado
+EP-008932,2026-04-22,Telecomunicaciones,Virtual,Continuidad,Bases de datos,68.4,63.7,77.0,4.0,Beca completa,SIGA,1.0,Sí,2026-04-22,POL-CAL-01 registro duplicado
+EP-001788,2026-06-13,Industrial,Por encuentros,Continuidad,Física I,65.2,57.9,12.0,1.0,Beca parcial,SIGA,1.0,Sí,2026-06-18,POL-CAL-01 registro duplicado
+EP-006211,2026-03-12,Civil,Presencial,Traslado,Estadística,,99.3,101.0,0.0,Beca completa,Archivo CSV,0.0,Sí,2026-03-13,POL-CAL-01 registro duplicado
+EP-004467,2025-05-26,Computación,Presencial,Continuidad,Programación I,88.7,86.8,,1.0,Sin beca,Moodle,,Sí,2025-05-28,POL-CAL-01 registro duplicado
+EP-000946,2026-03-12,Sistemas,Presencial,Continuidad,Bases de datos,61.2,,8.0,3.0,Tutoría académica,Moodle,0.0,Sí,2026-03-12,POL-CAL-01 registro duplicado
+EP-005549,2025-10-14,Sistemas,Virtual,Continuidad,Bases de datos,77.5,72.2,110.0,0.0,Sin beca,Bienestar,0.0,Sí,2025-10-18,POL-CAL-01 registro duplicado
+EP-006822,2025-01-07,Computación,Presencial,Continuidad,Programación I,74.8,85.1,47.0,1.0,Sin beca,Moodle,0.0,Sí,2025-01-11,POL-CAL-01 registro duplicado
+EP-009737,2026-04-18,Telecomunicaciones,Virtual,Continuidad,Bases de datos,75.9,88.5,86.0,1.0,Sin beca,SIGA,1.0,Sí,2026-04-18,POL-CAL-01 registro duplicado
+EP-001112,2025-03-23,Civil,Presencial,Nuevo ingreso,Física I,80.9,83.2,,0.0,Sin beca,SIGA,0.0,Sí,2025-03-27,POL-CAL-01 registro duplicado
+EP-001720,2025-04-09,Sistemas,Virtual,Reingreso,Física I,57.4,56.4,89.0,4.0,Beca completa,SIGA,1.0,Sí,2025-04-09,POL-CAL-01 registro duplicado
+EP-004661,2025-05-19,Telecomunicaciones,Virtual,Reingreso,Programación I,60.2,73.5,53.0,2.0,Sin beca,Moodle,1.0,Sí,2025-05-21,POL-CAL-01 registro duplicado
+EP-001303,2025-01-04,Civil,Presencial,Continuidad,Matemática I,70.6,76.2,88.0,2.0,Sin beca,Moodle,0.0,Sí,2025-01-06,POL-CAL-01 registro duplicado
+EP-003287,2025-09-08,Industrial,Virtual,Traslado,Programación I,81.3,69.6,113.0,0.0,Tutoría académica,Moodle,0.0,No,2025-09-12,POL-CAL-01 registro duplicado
+EP-002894,2025-06-27,Civil,Virtual,Continuidad,Estadística,67.9,75.9,71.0,0.0,Sin beca,SIGA,0.0,Sí,2025-08-09,POL-CAL-01 registro duplicado
+EP-007171,2025-05-24,Industrial,Presencial,Continuidad,Bases de datos,73.2,82.1,47.0,1.0,Beca parcial,Moodle,1.0,Sí,2025-06-26,POL-CAL-01 registro duplicado
+EP-001443,2026-04-10,Sistemas,,Continuidad,Estadística,79.4,80.6,130.0,2.0,Sin beca,Moodle,0.0,Sí,2026-04-11,POL-CAL-01 registro duplicado
+EP-001544,2025-10-04,Industrial,Por encuentros,Nuevo ingreso,Matemática I,59.7,63.2,55.0,1.0,Sin beca,Archivo CSV,1.0,Sí,2025-10-09,POL-CAL-01 registro duplicado
+EP-000271,2026-01-14,Sistemas,Por encuentros,Nuevo ingreso,Física I,67.0,71.1,45.0,3.0,Sin beca,Moodle,1.0,SI,2026-01-18,POL-CAL-01 registro duplicado
+EP-008338,2025-03-24,Sistemas,Virtual,Continuidad,Física I,76.2,68.5,96.0,4.0,Sin beca,Moodle,1.0,Sí,2025-03-29,POL-CAL-01 registro duplicado
+EP-004092,2025-11-04,Civil,Por encuentros,Continuidad,Bases de datos,68.5,79.1,56.0,0.0,Beca completa,Moodle,0.0,Sí,2025-11-04,POL-CAL-01 registro duplicado
+EP-002067,2026-04-08,Civil,Presencial,Nuevo ingreso,Matemática I,74.9,96.9,90.0,3.0,Sin beca,Bienestar,0.0,Sí,2026-04-09,POL-CAL-01 registro duplicado
+EP-006476,2025-05-21,Computación,Virtual,Reingreso,Programación I,71.9,63.0,61.0,1.0,Beca completa,SIGA,1.0,Sí,2025-05-24,POL-CAL-01 registro duplicado
+EP-000508,2026-03-17,Sistemas,Presencial,Reingreso,Matemática I,65.8,80.0,94.0,1.0,Sin beca,Archivo CSV,0.0,Sí,2026-03-20,POL-CAL-01 registro duplicado
+EP-008053,2025-12-26,Computación,Virtual,Nuevo ingreso,Bases de datos,69.7,77.9,109.0,1.0,Sin beca,Archivo CSV,0.0,Sí,2025-12-28,POL-CAL-01 registro duplicado
+EP-005525,2025-08-14,Industrial,Por encuentros,Traslado,Bases de datos,65.1,60.7,37.0,3.0,Sin beca,Moodle,1.0,Sí,2025-08-15,POL-CAL-01 registro duplicado
+EP-001902,2026-04-12,Industrial,Presencial,Nuevo ingreso,Bases de datos,54.7,75.9,67.0,3.0,Sin beca,Moodle,1.0,Sí,2026-04-13,POL-CAL-01 registro duplicado
+EP-000379,2025-09-10,Computación,Virtual,Continuidad,Estadística,75.7,69.5,56.0,1.0,Beca completa,Bienestar,0.0,Sí,2025-09-13,POL-CAL-01 registro duplicado
+EP-003701,2025-02-01,Telecomunicaciones,Virtual,Continuidad,Física I,76.5,83.7,114.0,1.0,Beca parcial,Archivo CSV,0.0,Sí,2025-02-03,POL-CAL-01 registro duplicado
+EP-003539,2026-03-24,Sistemas,Por encuentros,Continuidad,Matemática I,85.1,87.7,110.0,0.0,Beca parcial,Archivo CSV,0.0,Sí,2026-03-28,POL-CAL-01 registro duplicado
+EP-008576,2026-06-02,Industrial,Presencial,Continuidad,Física I,66.9,67.4,71.0,1.0,Beca parcial,SIGA,0.0,Sí,2026-06-05,POL-CAL-01 registro duplicado
+EP-006744,2025-07-18,Computación,Por encuentros,Reingreso,Matemática I,91.7,90.5,72.0,0.0,Sin beca,Moodle,0.0,Sí,2025-08-02,POL-CAL-01 registro duplicado
+EP-008863,2025-05-24,Civil,Presencial,Continuidad,Bases de datos,64.4,90.5,56.0,1.0,Sin beca,Archivo CSV,1.0,Sí,2025-05-29,POL-CAL-01 registro duplicado
+EP-001196,2026-06-10,Industrial,Presencial,Nuevo ingreso,Programación I,49.5,70.2,45.0,3.0,,SIGA,1.0,No,2026-06-12,POL-CAL-01 registro duplicado
+EP-005121,2025-04-08,Industrial,Presencial,Continuidad,Bases de datos,63.3,68.7,84.0,2.0,Beca parcial,SIGA,0.0,Sí,2025-04-12,POL-CAL-01 registro duplicado
+EP-001699,2025-12-26,Sistemas,Presencial,Continuidad,Estadística,48.0,,8.0,5.0,Sin beca,SIGA,1.0,Sí,2025-12-29,POL-CAL-01 registro duplicado
+EP-004563,2025-09-21,Sistemas,Virtual,Traslado,Programación I,82.1,79.4,118.0,0.0,Sin beca,Moodle,1.0,Sí,2025-10-08,POL-CAL-01 registro duplicado
+EP-007168,2026-01-13,Civil,Por encuentros,Nuevo ingreso,Física I,85.8,,85.0,0.0,,Archivo CSV,0.0,Sí,2026-01-15,POL-CAL-01 registro duplicado
+EP-001290,2025-10-15,Computación,Virtual,Reingreso,Bases de datos,48.0,40.6,24.0,4.0,Beca parcial,Moodle,1.0,Sí,2025-10-16,POL-CAL-01 registro duplicado
+EP-002760,2026-03-07,Telecomunicaciones,Por encuentros,Continuidad,Matemática I,96.0,73.7,107.0,0.0,Beca completa,Bienestar,0.0,Sí,2026-03-09,POL-CAL-01 registro duplicado
+EP-005069,2025-07-28,Telecomunicaciones,Por encuentros,Continuidad,Estadística,74.3,81.0,101.0,1.0,Sin beca,SIGA,0.0,Sí,2025-08-02,POL-CAL-01 registro duplicado
+EP-000738,2025-08-09,Industrial,Por encuentros,Reingreso,Física I,67.4,64.7,74.0,1.0,Sin beca,SIGA,0.0,Sí,2025-08-10,POL-CAL-01 registro duplicado
+EP-002972,2026-02-27,Computación,Presencial,Traslado,Física I,86.3,82.4,121.0,1.0,Beca parcial,SIGA,0.0,Sí,2026-03-01,POL-CAL-01 registro duplicado
+EP-001650,2026-05-09,Civil,Virtual,Continuidad,Programación I,79.2,54.1,93.0,2.0,Sin beca,SIGA,1.0,Sí,2026-05-10,POL-CAL-01 registro duplicado
+EP-001763,2025-02-08,Civil,Virtual,Nuevo ingreso,Programación I,64.3,,119.0,3.0,Beca completa,Moodle,,Sí,2025-02-13,POL-CAL-01 registro duplicado
+EP-006932,2025-04-10,Sistemas,Por encuentros,Nuevo ingreso,Bases de datos,77.3,82.2,44.0,0.0,Sin beca,Moodle,0.0,No,2025-05-18,POL-CAL-01 registro duplicado
+EP-001678,2026-05-16,Telecomunicaciones,Virtual,Continuidad,Programación I,76.3,97.2,,0.0,,SIGA,0.0,Sí,2026-05-17,POL-CAL-01 registro duplicado
+EP-002106,2025-07-15,Telecomunicaciones,Presencial,Reingreso,Matemática I,70.0,71.7,74.0,1.0,Beca parcial,Moodle,0.0,Sí,2025-07-16,POL-CAL-01 registro duplicado
+EP-005723,2026-02-08,Industrial,Virtual,Continuidad,Física I,91.7,88.8,140.0,0.0,Beca completa,Moodle,0.0,Sí,2026-02-12,POL-CAL-01 registro duplicado
+EP-004649,2025-06-20,Computación,Por encuentros,Nuevo ingreso,Matemática I,75.1,83.9,80.0,3.0,Tutoría académica,Moodle,1.0,Sí,2025-06-23,POL-CAL-01 registro duplicado
+EP-003553,2025-09-02,Industrial,Virtual,Continuidad,Bases de datos,74.8,69.9,69.0,0.0,Sin beca,Bienestar,1.0,Sí,2025-09-05,POL-CAL-01 registro duplicado
+EP-000832,2025-02-24,Telecomunicaciones,Presencial,Nuevo ingreso,Estadística,52.5,56.5,21.0,4.0,Beca parcial,Bienestar,1.0,Sí,2025-02-28,POL-CAL-01 registro duplicado
+EP-009572,2025-07-19,Telecomunicaciones,Por encuentros,Traslado,Bases de datos,54.4,71.3,30.0,3.0,Beca completa,Bienestar,0.0,Sí,2025-07-22,POL-CAL-01 registro duplicado
+EP-001683,2025-08-23,Civil,Por encuentros,Reingreso,Matemática I,92.1,87.1,90.0,0.0,Beca parcial,Bienestar,0.0,Sí,2025-08-28,POL-CAL-01 registro duplicado
+EP-009637,2025-03-16,Computación,Virtual,Continuidad,Estadística,72.3,82.4,100.0,0.0,Tutoría académica,Archivo CSV,0.0,Sí,2025-03-21,POL-CAL-01 registro duplicado
+EP-008923,2025-01-17,Sistemas,,Continuidad,Física I,76.0,86.4,,4.0,Sin beca,Archivo CSV,0.0,Sí,2025-01-19,POL-CAL-01 registro duplicado
+EP-000949,2025-08-03,Civil,Por encuentros,Nuevo ingreso,Estadística,59.9,,77.0,3.0,Tutoría académica,Moodle,1.0,Sí,2025-08-05,POL-CAL-01 registro duplicado
+EP-005234,2025-05-06,Sistemas,Virtual,Traslado,Bases de datos,59.3,76.3,91.0,3.0,Sin beca,Moodle,1.0,Sí,2025-05-10,POL-CAL-01 registro duplicado
+EP-000624,2025-12-12,Telecomunicaciones,Virtual,Continuidad,Matemática I,68.5,83.8,105.0,,Sin beca,Moodle,0.0,Sí,2025-12-13,POL-CAL-01 registro duplicado
+EP-000012,2026-01-28,Civil,Virtual,Continuidad,Matemática I,79.1,71.0,,2.0,,Archivo CSV,0.0,Sí,2026-01-28,POL-CAL-01 registro duplicado
+EP-005609,2025-05-04,Telecomunicaciones,Presencial,Nuevo ingreso,Matemática I,77.0,87.1,109.0,1.0,Beca parcial,SIGA,1.0,Sí,2025-05-07,POL-CAL-01 registro duplicado
+EP-008437,2026-02-14,Civil,Virtual,Nuevo ingreso,Estadística,76.1,78.2,80.0,2.0,Sin beca,Archivo CSV,1.0,Sí,2026-02-17,POL-CAL-01 registro duplicado
+EP-002847,2025-09-15,Civil,Virtual,Continuidad,Matemática I,60.3,,52.0,2.0,Tutoría académica,SIGA,1.0,Sí,2025-09-17,POL-CAL-01 registro duplicado
+EP-009555,2026-02-26,Sistemas,Presencial,Continuidad,Bases de datos,75.0,79.5,78.0,1.0,Sin beca,SIGA,0.0,Sí,2026-03-01,POL-CAL-01 registro duplicado
+EP-005812,2025-02-11,Telecomunicaciones,Por encuentros,Continuidad,Bases de datos,,72.2,24.0,1.0,Sin beca,SIGA,1.0,Sí,2025-02-12,POL-CAL-01 registro duplicado
+EP-005645,2025-11-28,Telecomunicaciones,Virtual,Continuidad,Física I,60.6,79.6,118.0,0.0,Sin beca,Moodle,0.0,Sí,2025-12-01,POL-CAL-01 registro duplicado
+EP-002021,2026-04-07,Civil,Virtual,Continuidad,Estadística,64.5,87.5,94.0,2.0,Sin beca,Archivo CSV,0.0,Sí,2026-04-10,POL-CAL-01 registro duplicado
+EP-000534,2025-02-28,Civil,Virtual,Nuevo ingreso,Programación I,72.8,,105.0,,Tutoría académica,Archivo CSV,0.0,Sí,2025-03-02,POL-CAL-01 registro duplicado
+EP-002316,2025-01-12,Civil,Por encuentros,Continuidad,Física I,59.1,72.7,28.0,1.0,Beca completa,Moodle,0.0,Sí,2025-01-26,POL-CAL-01 registro duplicado
+EP-003298,2025-08-09,Civil,Virtual,Continuidad,Matemática I,82.9,99.5,141.0,0.0,Sin beca,Moodle,0.0,Sí,2025-08-10,POL-CAL-01 registro duplicado
+EP-008687,2025-02-14,Civil,Por encuentros,,Física I,77.3,69.4,69.0,0.0,Beca completa,SIGA,0.0,Sí,2025-02-15,POL-CAL-01 registro duplicado
+EP-005078,2025-03-02,Civil,Presencial,Traslado,Bases de datos,69.4,,72.0,0.0,Beca completa,Moodle,0.0,Sí,2025-03-03,POL-CAL-01 registro duplicado
+EP-009063,2026-01-10,Industrial,Virtual,Nuevo ingreso,Estadística,75.5,81.2,113.0,0.0,Sin beca,Bienestar,0.0,Sí,2026-01-10,POL-CAL-01 registro duplicado
+EP-005578,2025-07-20,Sistemas,Presencial,Continuidad,Física I,66.1,68.0,91.0,0.0,Sin beca,Archivo CSV,1.0,Sí,2025-07-23,POL-CAL-01 registro duplicado
+EP-005793,2025-04-12,Industrial,Por encuentros,Reingreso,Matemática I,69.4,80.2,94.0,0.0,Sin beca,SIGA,0.0,Sí,2025-04-15,POL-CAL-01 registro duplicado
+EP-002418,2025-12-11,Telecomunicaciones,Virtual,Continuidad,Matemática I,72.5,76.8,92.0,0.0,Beca parcial,SIGA,0.0,Sí,2025-12-26,POL-CAL-01 registro duplicado
+EP-001731,2025-10-27,Sistemas,Virtual,Reingreso,Matemática I,68.5,78.6,59.0,3.0,Beca completa,Bienestar,,Sí,2025-11-01,POL-CAL-01 registro duplicado
+EP-002435,2025-04-02,Industrial,Presencial,Continuidad,Bases de datos,69.8,51.0,65.0,1.0,Beca parcial,SIGA,0.0,Sí,2025-04-02,POL-CAL-01 registro duplicado
+EP-003753,2025-01-19,Industrial,Virtual,Nuevo ingreso,Matemática I,68.6,69.4,107.0,2.0,Sin beca,Moodle,1.0,Sí,2025-01-19,POL-CAL-01 registro duplicado
+EP-004477,2025-02-05,Industrial,Por encuentros,Nuevo ingreso,Bases de datos,69.3,69.0,107.0,2.0,Beca completa,SIGA,0.0,Sí,2025-03-04,POL-CAL-01 registro duplicado
+EP-000836,2025-06-04,Sistemas,Presencial,Continuidad,Programación I,83.1,82.8,78.0,0.0,Beca completa,SIGA,0.0,Sí,2025-06-05,POL-CAL-01 registro duplicado
+EP-003818,2025-09-06,Telecomunicaciones,Por encuentros,Continuidad,Matemática I,74.7,77.0,60.0,2.0,Sin beca,Archivo CSV,0.0,Sí,2025-09-08,POL-CAL-01 registro duplicado
+EP-003535,2025-08-20,Telecomunicaciones,Presencial,Nuevo ingreso,Bases de datos,72.2,92.0,91.0,,Beca completa,SIGA,0.0,Sí,2025-08-25,POL-CAL-01 registro duplicado
+EP-003683,2026-01-25,Industrial,Virtual,Reingreso,Bases de datos,58.3,,54.0,0.0,Beca completa,Moodle,0.0,Sí,2026-01-29,POL-CAL-01 registro duplicado
+EP-000346,2026-05-24,Telecomunicaciones,Virtual,Continuidad,Estadística,80.5,96.6,137.0,0.0,Sin beca,Moodle,0.0,Sí,2026-06-17,POL-CAL-01 registro duplicado
+EP-008125,2025-02-11,Sistemas,Por encuentros,Continuidad,Estadística,92.2,73.4,65.0,0.0,Beca completa,Archivo CSV,0.0,Sí,2025-02-14,POL-CAL-01 registro duplicado
+EP-000066,2025-01-06,Civil,Presencial,Reingreso,Bases de datos,72.0,76.1,60.0,0.0,Sin beca,Archivo CSV,0.0,Sí,2025-01-10,POL-CAL-01 registro duplicado
+EP-003146,2025-10-27,Telecomunicaciones,Presencial,Nuevo ingreso,Bases de datos,70.1,95.0,57.0,3.0,Sin beca,Moodle,1.0,Sí,2025-11-21,POL-CAL-01 registro duplicado
+EP-000037,2025-06-01,Telecomunicaciones,Presencial,Continuidad,Estadística,84.7,85.9,119.0,0.0,Beca parcial,SIGA,0.0,Sí,2025-06-04,POL-CAL-01 registro duplicado
+EP-004892,2026-03-26,Sistemas,Presencial,Continuidad,Física I,67.7,61.5,92.0,0.0,Sin beca,Archivo CSV,1.0,Sí,2026-03-28,POL-CAL-01 registro duplicado
+EP-002552,2026-06-04,Telecomunicaciones,Presencial,Nuevo ingreso,Estadística,73.7,75.4,72.0,2.0,Beca parcial,Moodle,0.0,Sí,2026-06-09,POL-CAL-01 registro duplicado
+EP-001386,2026-05-19,Civil,Virtual,Continuidad,Estadística,78.8,87.8,74.0,1.0,Sin beca,SIGA,1.0,Sí,2026-05-23,POL-CAL-01 registro duplicado
+EP-003226,2026-01-01,Sistemas,Presencial,Continuidad,Bases de datos,70.7,73.8,95.0,0.0,Sin beca,SIGA,0.0,Sí,2026-01-26,POL-CAL-01 registro duplicado
+EP-008723,2026-03-26,Telecomunicaciones,Presencial,Reingreso,Programación I,71.8,88.8,65.0,2.0,Beca parcial,SIGA,0.0,Sí,2026-03-28,POL-CAL-01 registro duplicado
+EP-005464,2025-11-04,Civil,Por encuentros,Continuidad,Programación I,75.0,64.2,70.0,2.0,Sin beca,SIGA,0.0,Sí,2025-11-09,POL-CAL-01 registro duplicado
+EP-007962,2025-02-16,Industrial,Virtual,Continuidad,Matemática I,56.2,52.2,38.0,1.0,Tutoría académica,Moodle,1.0,Sí,2025-02-16,POL-CAL-01 registro duplicado
+EP-003254,2025-05-02,Sistemas,Virtual,Continuidad,Programación I,71.0,70.5,102.0,0.0,Sin beca,SIGA,1.0,Sí,2025-05-03,POL-CAL-01 registro duplicado
+EP-001056,2026-05-26,Computación,Virtual,Continuidad,Estadística,92.0,97.5,142.0,0.0,Sin beca,SIGA,0.0,Sí,2026-05-27,POL-CAL-01 registro duplicado
+EP-007180,2025-11-01,Computación,Presencial,Reingreso,Programación I,82.8,75.1,80.0,1.0,Sin beca,SIGA,0.0,Sí,2025-11-05,POL-CAL-01 registro duplicado
+EP-007147,2026-01-04,Sistemas, Virtual ,Continuidad,Bases de datos,59.8,58.0,72.0,4.0,,Moodle,1.0,Sí,2026-01-06,POL-CAL-01 registro duplicado
+EP-004382,2026-03-21,Sistemas,Presencial,Nuevo ingreso,Física I,76.1,89.5,105.0,0.0,Beca parcial,SIGA,0.0,Sí,2026-03-21,POL-CAL-01 registro duplicado
+EP-006096,2025-10-07,Industrial,Presencial,Reingreso,Matemática I,64.6,68.9,53.0,0.0,Sin beca,SIGA,1.0,Sí,2025-10-08,POL-CAL-01 registro duplicado
+EP-001313,2025-04-19,Industrial,Presencial,Continuidad,Programación I,66.3,84.3,66.0,3.0,Sin beca,Moodle,1.0,Sí,2025-05-03,POL-CAL-01 registro duplicado
+EP-001546,2026-04-27,Telecomunicaciones,Presencial,Reingreso,Programación I,71.2,90.5,48.0,0.0,Beca parcial,Moodle,0.0,Sí,2026-05-01,POL-CAL-01 registro duplicado
+EP-006089,2026-06-17,Telecomunicaciones,Presencial,Continuidad,Bases de datos,68.6,64.7,70.0,,Sin beca,Moodle,0.0,Sí,2026-06-21,POL-CAL-01 registro duplicado
+EP-006890,2025-05-12,Industrial,Por encuentros,Traslado,Programación I,53.1,73.5,240.0,1.0,,Moodle,0.0,SI,2025-05-14,POL-CAL-01 registro duplicado
+EP-002466,2025-10-02,Computación,Por encuentros,Nuevo ingreso,Bases de datos,80.9,78.7,87.0,0.0,Sin beca,Moodle,1.0,Sí,2025-10-03,POL-CAL-01 registro duplicado
+EP-000642,2025-10-14,Telecomunicaciones,Virtual,Continuidad,Bases de datos,67.3,,117.0,3.0,Beca parcial,Archivo CSV,1.0,Sí,2025-10-19,POL-CAL-01 registro duplicado
+EP-002247,2026-01-02,Telecomunicaciones,Por encuentros,Continuidad,Física I,70.1,76.9,63.0,2.0,Sin beca,Moodle,0.0,Sí,2026-01-07,POL-CAL-01 registro duplicado
+EP-008922,2025-07-12,Telecomunicaciones,Virtual,Continuidad,Matemática I,68.4,73.4,92.0,2.0,Sin beca,Bienestar,,Sí,2025-07-14,POL-CAL-01 registro duplicado
+EP-008202,2026-05-21,Industrial,Por encuentros,Continuidad,Estadística,63.5,66.8,63.0,2.0,Beca parcial,SIGA,1.0,Sí,2026-05-22,POL-CAL-01 registro duplicado
+EP-003045,2026-04-09,Computación,Presencial,Continuidad,Física I,71.4,97.6,96.0,0.0,Sin beca,Archivo CSV,0.0,Sí,2026-04-13,POL-CAL-01 registro duplicado
+EP-000923,2025-04-10,Civil,Por encuentros,Nuevo ingreso,Matemática I,68.4,54.3,11.0,3.0,Sin beca,Moodle,1.0,Sí,2025-05-02,POL-CAL-01 registro duplicado
+EP-001978,2025-02-09,Civil,Presencial,Continuidad,Matemática I,,99.7,,0.0,Tutoría académica,Bienestar,0.0,Sí,2025-02-09,POL-CAL-01 registro duplicado
+EP-005592,2025-10-25,Civil,Presencial,Continuidad,Programación I,75.1,84.0,105.0,0.0,Sin beca,Moodle,1.0,Sí,2025-10-29,POL-CAL-01 registro duplicado
+EP-001666,2025-02-13,Industrial,Por encuentros,Continuidad,Física I,51.0,60.0,13.0,5.0,Sin beca,Moodle,1.0,Sí,2025-02-18,POL-CAL-01 registro duplicado
+EP-000439,2026-03-01,Telecomunicaciones,Virtual,Continuidad,Estadística,,100.0,130.0,0.0,Beca completa,Moodle,0.0,Sí,2026-03-06,POL-CAL-01 registro duplicado
+EP-000375,2026-04-27,Civil,Presencial,Continuidad,Programación I,84.1,90.3,85.0,12.0,Sin beca,Bienestar,1.0,Sí,2026-04-28,POL-CAL-01 registro duplicado
+EP-007333,2025-06-02,Civil,Virtual,Reingreso,Física I,62.0,75.0,103.0,2.0,Sin beca,Moodle,1.0,Sí,2025-06-03,POL-CAL-01 registro duplicado
+EP-003881,2025-07-04,Telecomunicaciones,Virtual,Nuevo ingreso,Física I,74.2,68.1,112.0,1.0,Beca parcial,Bienestar,0.0,Sí,2025-07-07,POL-CAL-01 registro duplicado
+EP-006451,2025-06-10,Computación,Por encuentros,Continuidad,Física I,65.7,86.1,25.0,3.0,Sin beca,Moodle,1.0,Sí,2025-07-17,POL-CAL-01 registro duplicado
+EP-003067,2025-03-24,Computación,Presencial,Continuidad,Bases de datos,75.8,96.3,97.0,0.0,Sin beca,SIGA,0.0,Sí,2025-03-29,POL-CAL-01 registro duplicado
+EP-000057,2026-04-18,Telecomunicaciones,Presencial,Nuevo ingreso,Estadística,74.6,65.2,66.0,2.0,Beca completa,Moodle,0.0,Sí,2026-04-23,POL-CAL-01 registro duplicado
+EP-003775,2025-06-24,Telecomunicaciones,Presencial,Continuidad,Estadística,82.1,100.0,92.0,0.0,Beca completa,Moodle,0.0,Sí,2025-06-28,POL-CAL-01 registro duplicado
+EP-005055,2025-10-12,Computación,Virtual,Nuevo ingreso,Matemática I,59.1,57.5,43.0,3.0,Beca parcial,SIGA,1.0,Sí,2025-10-16,POL-CAL-01 registro duplicado
+EP-004864,2026-05-03,Sistemas,Virtual,Nuevo ingreso,Matemática I,66.6,94.7,66.0,0.0,Sin beca,SIGA,1.0,Sí,2026-05-05,POL-CAL-01 registro duplicado
+EP-002968,2025-07-13,Civil, Virtual ,Continuidad,Física I,68.0,83.6,69.0,4.0,Sin beca,SIGA,1.0,Sí,2025-08-01,POL-CAL-01 registro duplicado
+EP-003436,2025-07-10,Computación,Por encuentros,Nuevo ingreso,Programación I,67.7,68.5,48.0,1.0,Beca completa,Archivo CSV,0.0,Sí,2025-07-11,POL-CAL-01 registro duplicado
+EP-001210,2025-09-15,Industrial,Virtual,Nuevo ingreso,Física I,78.0,77.6,107.0,0.0,Sin beca,Bienestar,1.0,Sí,2025-09-18,POL-CAL-01 registro duplicado
+EP-002171,2026-02-01,Sistemas,Presencial,Continuidad,Matemática I,86.2,82.6,96.0,0.0,Sin beca,SIGA,1.0,Sí,2026-02-02,POL-CAL-01 registro duplicado
+EP-000572,2025-07-07,Civil,Presencial,Nuevo ingreso,Física I,67.5,64.0,30.0,1.0,Tutoría académica,SIGA,1.0,Sí,2025-07-11,POL-CAL-01 registro duplicado
+EP-009774,2026-05-05,Sistemas,Presencial,Continuidad,Física I,80.3,83.3,62.0,0.0,Beca parcial,Moodle,0.0,Sí,2026-05-18,POL-CAL-01 registro duplicado
+EP-004783,2025-06-21,Sistemas,Virtual,Reingreso,Programación I,73.0,69.6,80.0,0.0,Tutoría académica,Moodle,1.0,Sí,2025-06-25,POL-CAL-01 registro duplicado
+EP-007419,2026-01-27,Sistemas,Por encuentros,Nuevo ingreso,Bases de datos,89.4,79.6,85.0,0.0,Tutoría académica,SIGA,0.0,Sí,2026-01-29,POL-CAL-01 registro duplicado
+EP-003088,2025-04-19,Civil,Por encuentros,Nuevo ingreso,Estadística,93.8,94.9,,0.0,Tutoría académica,SIGA,0.0,Sí,2025-04-24,POL-CAL-01 registro duplicado
+EP-002795,2026-03-17,Sistemas,Virtual,Traslado,Programación I,72.8,73.7,82.0,0.0,Beca completa,Moodle,1.0,Sí,2026-03-20,POL-CAL-01 registro duplicado
+EP-003731,2025-05-23,Computación,Presencial,Continuidad,Física I,65.8,69.8,72.0,1.0,Sin beca,SIGA,1.0,No,2025-05-25,POL-CAL-01 registro duplicado
+EP-003567,2025-10-08,Industrial,Virtual,Continuidad,Física I,76.9,89.7,67.0,-1.0,Tutoría académica,SIGA,1.0,Sí,2025-10-13,POL-CAL-01 registro duplicado
+EP-008004,2026-02-02,Telecomunicaciones,Virtual,Nuevo ingreso,Física I,70.6,86.5,113.0,1.0,Beca parcial,Moodle,0.0,Sí,2026-02-06,POL-CAL-01 registro duplicado
+EP-003063,2025-02-03,Industrial,Virtual,Reingreso,Matemática I,,83.0,94.0,0.0,Beca parcial,Archivo CSV,0.0,Sí,2025-02-04,POL-CAL-01 registro duplicado
+EP-004713,2026-01-27,Sistemas,Virtual,Continuidad,Matemática I,80.8,92.9,116.0,0.0,Sin beca,Moodle,0.0,Sí,2026-01-29,POL-CAL-01 registro duplicado
+EP-004642,2026-04-11,Computación,Por encuentros,Continuidad,Matemática I,82.9,86.2,110.0,0.0,Sin beca,SIGA,1.0,Sí,2026-04-15,POL-CAL-01 registro duplicado
+EP-007134,2025-09-25,Telecomunicaciones,Presencial,Nuevo ingreso,Física I,65.6,79.1,43.0,0.0,Sin beca,Moodle,0.0,Sí,2025-09-27,POL-CAL-01 registro duplicado
+EP-009474,2026-01-24,Industrial,Virtual,Continuidad,Bases de datos,56.6,79.1,43.0,1.0,Sin beca,Moodle,1.0,Sí,2026-01-29,POL-CAL-01 registro duplicado
+EP-001412,2025-11-19,Civil,Presencial,Nuevo ingreso, Matemática I ,68.9,,69.0,3.0,Sin beca,Bienestar,1.0,Sí,2025-11-19,POL-CAL-01 registro duplicado
+EP-003499,2025-01-07,Telecomunicaciones,Por encuentros,Continuidad,Matemática I,65.1,69.0,76.0,1.0,Tutoría académica,Archivo CSV,0.0,Sí,2025-01-12,POL-CAL-01 registro duplicado
+EP-001436,2025-06-28,Sistemas,Presencial,Continuidad,Programación I,78.8,79.8,90.0,0.0,Sin beca,Archivo CSV,0.0,Sí,2025-07-03,POL-CAL-01 registro duplicado
+EP-004000,2026-04-20,Sistemas,Virtual,Nuevo ingreso,Estadística,76.3,,85.0,2.0,Sin beca,Moodle,0.0,Sí,2026-04-21,POL-CAL-01 registro duplicado
+EP-003657,2026-06-18,Computación,Presencial,Continuidad,Bases de datos,73.4,84.1,104.0,0.0,Sin beca,SIGA,0.0,Sí,2026-06-19,POL-CAL-01 registro duplicado
+EP-006355,2026-01-01,Telecomunicaciones,Virtual,Nuevo ingreso,Bases de datos,55.0,52.2,25.0,3.0,Beca parcial,Moodle,1.0,Sí,2026-01-03,POL-CAL-01 registro duplicado
+EP-002442,2025-03-01,Industrial,Por encuentros,Nuevo ingreso,Bases de datos,69.8,73.9,62.0,1.0,Sin beca,Moodle,0.0,Sí,2025-03-03,POL-CAL-01 registro duplicado
+EP-001819,2025-05-18,Computación,Por encuentros,Reingreso,Matemática I,71.6,80.2,93.0,2.0,Beca parcial,Moodle,0.0,Sí,2025-05-21,POL-CAL-01 registro duplicado
+EP-001016,2025-10-15,Telecomunicaciones,Presencial,Reingreso,Bases de datos,60.7,89.0,41.0,4.0,Beca completa,Moodle,0.0,Sí,2025-10-18,POL-CAL-01 registro duplicado
+EP-003449,2026-05-01,Computación,Por encuentros,Nuevo ingreso,Bases de datos,77.1,76.8,83.0,0.0,Sin beca,Moodle,0.0,,2026-05-01,POL-CAL-01 registro duplicado
+EP-002756,2025-12-23,Computación,Presencial,Nuevo ingreso,Estadística,67.7,65.0,59.0,4.0,Beca parcial,Moodle,1.0,Sí,2025-12-23,POL-CAL-01 registro duplicado
+EP-007788,2026-04-26,Computación,Por encuentros,Traslado,Física I,62.6,85.3,,2.0,Sin beca,Moodle,1.0,Sí,2026-04-27,POL-CAL-01 registro duplicado
+EP-003606,2025-10-17,Telecomunicaciones,Por encuentros,Reingreso,Programación I,69.6,88.1,66.0,1.0,Beca parcial,SIGA,0.0,Sí,2025-10-17,POL-CAL-01 registro duplicado
+EP-009312,2025-10-18,Computación,Por encuentros,Reingreso,Bases de datos,65.1,72.3,88.0,3.0,Beca parcial,Bienestar,1.0,Sí,2025-10-23,POL-CAL-01 registro duplicado
+EP-004313,2025-02-28,Telecomunicaciones,Por encuentros,Nuevo ingreso,Programación I,65.5,63.7,36.0,1.0,Beca parcial,SIGA,0.0,Sí,2025-02-28,POL-CAL-01 registro duplicado
+EP-003284,2026-04-03,Civil,Presencial,Continuidad,Estadística,60.8,66.9,42.0,2.0,Tutoría académica,SIGA,1.0,Sí,2026-04-08,POL-CAL-01 registro duplicado
+EP-006767,2025-01-02,Industrial,Virtual,Nuevo ingreso,Programación I,96.0,89.9,130.0,0.0,Beca parcial,Bienestar,0.0,Sí,2025-02-13,POL-CAL-01 registro duplicado
+EP-007828,2025-01-15,Computación,Presencial,Continuidad,Programación I,73.8,5.0,,1.0,Tutoría académica,SIGA,1.0,Sí,2025-01-20,POL-CAL-01 registro duplicado
+EP-006116,2026-01-15,Computación,Por encuentros,Continuidad,Matemática I,69.2,89.4,66.0,1.0,Sin beca,Moodle,1.0,Sí,2026-01-19,POL-CAL-01 registro duplicado
+EP-000053,2025-02-22,Telecomunicaciones,Virtual,Nuevo ingreso,Matemática I,76.6,64.9,109.0,1.0,Sin beca,SIGA,0.0,Sí,2025-02-24,POL-CAL-01 registro duplicado
+EP-004905,2025-03-28,Telecomunicaciones,Virtual,Continuidad,Bases de datos,49.0,65.5,7.0,5.0,Beca parcial,Archivo CSV,1.0,Sí,2025-03-29,POL-CAL-01 registro duplicado
+EP-001876,2025-12-15,Sistemas,Por encuentros,Continuidad,Programación I,82.5,92.3,73.0,0.0,Sin beca,Moodle,0.0,Sí,2025-12-18,POL-CAL-01 registro duplicado
+EP-006839,2025-04-17,Telecomunicaciones,Virtual,Continuidad,Programación I,64.5,77.3,67.0,1.0,Tutoría académica,Moodle,1.0,Sí,2025-04-29,POL-CAL-01 registro duplicado
+EP-002422,2025-03-05,Sistemas,Por encuentros,Nuevo ingreso,Bases de datos,74.1,5.0,66.0,1.0,Beca completa,SIGA,0.0,Sí,2025-03-09,POL-CAL-01 registro duplicado
+EP-009026,2025-01-18,Industrial,Virtual,Continuidad,Matemática I,63.1,63.2,50.0,2.0,Sin beca,Moodle,1.0,,2025-01-18,POL-CAL-01 registro duplicado
+EP-006782,2026-05-27,Telecomunicaciones,Por encuentros,Nuevo ingreso,Estadística,48.0,47.9,21.0,1.0,Sin beca,SIGA,1.0,Sí,2026-05-30,POL-CAL-01 registro duplicado
+EP-000602,2026-01-26,Industrial,Virtual,Nuevo ingreso,Programación I,56.2,60.1,77.0,0.0,Beca parcial,SIGA,1.0,Sí,2026-01-28,POL-CAL-01 registro duplicado
+EP-001764,2025-01-18,Sistemas,Presencial,Nuevo ingreso,Programación I,96.0,100.0,143.0,0.0,Sin beca,Moodle,0.0,Sí,2025-01-21,POL-CAL-01 registro duplicado
+EP-004480,2026-01-09,Industrial,Por encuentros,Nuevo ingreso,Bases de datos,76.1,82.0,73.0,0.0,Beca parcial,Bienestar,0.0,Sí,2026-01-13,POL-CAL-01 registro duplicado
+EP-003030,2025-03-27,Industrial,Por encuentros,Continuidad,Física I,95.8,100.0,162.0,0.0,Beca parcial,Archivo CSV,0.0,Sí,2025-05-05,POL-CAL-01 registro duplicado
+EP-003945,2026-06-11,Industrial,Virtual,Continuidad,Física I,74.9,67.0,82.0,4.0,Tutoría académica,SIGA,1.0,Sí,2026-06-16,POL-CAL-01 registro duplicado
+EP-009033,2025-10-15,Computación,Presencial,Continuidad,Física I,62.7,68.5,19.0,0.0,Sin beca,Moodle,0.0,Sí,2025-10-20,POL-CAL-01 registro duplicado
+EP-000935,2025-08-04,Sistemas,Virtual,Continuidad,Programación I,77.0,52.6,85.0,1.0,Sin beca,SIGA,1.0,Sí,2025-08-06,POL-CAL-01 registro duplicado
+EP-002702,2025-05-04,Sistemas,Presencial,Nuevo ingreso,Bases de datos,64.9,65.4,58.0,1.0,Beca completa,Moodle,0.0,Sí,2025-05-06,POL-CAL-01 registro duplicado
+EP-007954,2025-10-04,Sistemas,Virtual,Traslado,Estadística,71.6,78.0,109.0,1.0,Sin beca,SIGA,0.0,No,2025-10-04,POL-SEG-01 sin autorización de uso analítico
+EP-008223,2026-04-26,Telecomunicaciones,Virtual,Continuidad,Matemática I,59.4,68.7,49.0,2.0,Beca parcial,SIGA,0.0,,2026-05-01,POL-SEG-01 sin autorización de uso analítico
+EP-008839,2025-01-15,Computación,Virtual,Continuidad,Estadística,76.6,70.6,113.0,2.0,Beca completa,SIGA,1.0,No,2025-02-08,POL-SEG-01 sin autorización de uso analítico
+EP-001316,2025-06-27,Civil,Virtual,Nuevo ingreso,Estadística,56.1,68.7,69.0,3.0,Tutoría académica,Archivo CSV,1.0,No,2025-07-02,POL-SEG-01 sin autorización de uso analítico
+EP-009647,2025-06-12,Industrial,Presencial,Reingreso,Matemática I,60.2,78.6,98.0,0.0,Tutoría académica,SIGA,0.0,No,2025-06-17,POL-SEG-01 sin autorización de uso analítico
+EP-004567,2025-11-04,Civil,Por encuentros,Nuevo ingreso,Bases de datos,68.9,81.1,27.0,4.0,Sin beca,Archivo CSV,0.0,,2025-11-08,POL-SEG-01 sin autorización de uso analítico
+EP-003813,2025-08-04,Sistemas,Por encuentros,Nuevo ingreso,Física I,83.1,87.1,53.0,4.0,Sin beca,Moodle,0.0,No,2025-08-07,POL-SEG-01 sin autorización de uso analítico
+EP-004047,2025-10-10,Industrial,Presencial,Continuidad,Matemática I,65.4,64.4,,3.0,Beca completa,SIGA,1.0,No,2025-10-14,POL-SEG-01 sin autorización de uso analítico
+EP-003807,2026-02-09,Civil,Por encuentros,Continuidad,Matemática I,96.0,96.3,127.0,0.0,Sin beca,Moodle,0.0,No,2026-03-14,POL-SEG-01 sin autorización de uso analítico
+EP-003264,2025-02-22,Telecomunicaciones,Virtual,,Bases de datos,89.4,70.3,91.0,0.0,Sin beca,Moodle,0.0,No,2025-03-28,POL-SEG-01 sin autorización de uso analítico
+EP-009796,2025-05-14,Computación,Presencial,Reingreso,Bases de datos,68.1,65.5,59.0,1.0,Beca parcial,Archivo CSV,1.0,No,2025-05-18,POL-SEG-01 sin autorización de uso analítico
+EP-002528,2026-01-28,Sistemas,Presencial,Continuidad,Física I,67.6,80.2,43.0,3.0,Beca parcial,Archivo CSV,1.0,,2026-01-28,POL-SEG-01 sin autorización de uso analítico
+EP-000075,2025-06-17,Civil,Presencial,Reingreso,Física I,76.6,81.4,69.0,0.0,Sin beca,Archivo CSV,1.0,No,2025-06-20,POL-SEG-01 sin autorización de uso analítico
+EP-004458,2025-04-17,Industrial,Presencial,Nuevo ingreso,Matemática I,84.1,91.3,70.0,0.0,Tutoría académica,Archivo CSV,0.0,No,2025-04-22,POL-SEG-01 sin autorización de uso analítico
+EP-005285,2026-06-15,Sistemas,Virtual,Continuidad,Estadística,74.3,69.6,92.0,5.0,Tutoría académica,SIGA,1.0,No,2026-06-26,POL-SEG-01 sin autorización de uso analítico
+EP-008392,2025-11-02,Industrial,Por encuentros,Continuidad,Matemática I,71.0,79.0,76.0,2.0,Tutoría académica,SIGA,0.0,No,2025-11-30,POL-SEG-01 sin autorización de uso analítico
+EP-007086,2025-12-20,Telecomunicaciones,Por encuentros,Continuidad,Física I,73.8,80.3,46.0,3.0,Sin beca,Archivo CSV,0.0,No,2026-01-02,POL-SEG-01 sin autorización de uso analítico
+EP-001088,2026-01-12,Computación,Virtual,Reingreso,Matemática I,72.1,60.4,43.0,1.0,Beca parcial,Moodle,0.0,No,2026-01-16,POL-SEG-01 sin autorización de uso analítico
+EP-002945,2026-05-25,Telecomunicaciones,Presencial,Continuidad,Física I,88.7,100.0,78.0,1.0,Sin beca,Moodle,0.0,No,2026-07-01,POL-SEG-01 sin autorización de uso analítico
+EP-008780,2025-02-20,Civil,Virtual,Reingreso,Matemática I,52.4,39.3,78.0,5.0,Beca parcial,SIGA,1.0,,2025-02-21,POL-SEG-01 sin autorización de uso analítico
+EP-009243,2026-04-24,Civil,Virtual,Nuevo ingreso,Estadística,71.5,69.1,82.0,2.0,Sin beca,SIGA,1.0,No,2026-04-25,POL-SEG-01 sin autorización de uso analítico
+EP-003048,2026-04-04,Sistemas,Por encuentros,Continuidad, Matemática I ,87.0,85.1,91.0,12.0,Sin beca,Moodle,0.0,No,2026-04-06,POL-SEG-01 sin autorización de uso analítico
+EP-009108,2025-07-04,Civil,,Continuidad,Estadística,65.4,70.1,68.0,4.0,Sin beca,SIGA,1.0,No,2025-07-07,POL-SEG-01 sin autorización de uso analítico
+EP-006485,2025-05-04,Civil,Por encuentros,Continuidad,Estadística,67.9,80.1,39.0,,Beca parcial,Archivo CSV,1.0,No,2025-05-06,POL-SEG-01 sin autorización de uso analítico
+EP-003228,2025-09-06,Industrial,Por encuentros,Continuidad,Matemática I,79.4,86.4,91.0,0.0,Tutoría académica,Archivo CSV,0.0,No,2025-09-06,POL-SEG-01 sin autorización de uso analítico
+EP-003848,2025-06-19,Computación,Virtual,Continuidad,Bases de datos,64.9,65.9,75.0,2.0,Sin beca,SIGA,1.0,No,2025-06-24,POL-SEG-01 sin autorización de uso analítico
+EP-003390,2026-06-13,Computación,Virtual,Continuidad,Programación I,62.5,71.9,76.0,2.0,Tutoría académica,SIGA,0.0,,2026-06-16,POL-SEG-01 sin autorización de uso analítico
+EP-008815,2025-12-04,Computación,Virtual,Continuidad,Estadística,74.7,91.7,73.0,1.0,Sin beca,SIGA,1.0,No,2025-12-04,POL-SEG-01 sin autorización de uso analítico
+EP-007491,2025-04-11,Sistemas,Virtual,Continuidad,Estadística,70.9,66.7,98.0,1.0,Beca parcial,Archivo CSV,0.0,No,2025-04-24,POL-SEG-01 sin autorización de uso analítico
+EP-006410,2025-04-06,Sistemas,Presencial,Continuidad,Física I,73.3,52.9,36.0,3.0,Beca parcial,SIGA,1.0,No,2025-04-11,POL-SEG-01 sin autorización de uso analítico
+EP-004299,2025-06-16,Industrial,Virtual,Nuevo ingreso,Programación I,73.3,79.7,123.0,1.0,Beca completa,SIGA,0.0,No,2025-06-21,POL-SEG-01 sin autorización de uso analítico
+EP-001196,2026-06-10,Industrial,Presencial,Nuevo ingreso,Programación I,49.5,70.2,45.0,3.0,,SIGA,1.0,No,2026-06-12,POL-SEG-01 sin autorización de uso analítico
+EP-006169,2025-07-13,Sistemas,Virtual,Nuevo ingreso,Física I,64.2,74.8,77.0,2.0,Sin beca,Bienestar,1.0,No,2025-07-14,POL-SEG-01 sin autorización de uso analítico
+EP-003765,2026-03-18,Computación,Virtual,Nuevo ingreso,Física I,72.1,67.0,78.0,1.0,Sin beca,SIGA,1.0,No,2026-05-01,POL-SEG-01 sin autorización de uso analítico
+EP-005057,2025-12-10,Computación,Por encuentros,Continuidad,Programación I,89.5,70.1,108.0,1.0,Beca parcial,Moodle,1.0,No,2025-12-14,POL-SEG-01 sin autorización de uso analítico
+EP-002605,2026-05-23,Industrial,Presencial,Nuevo ingreso,Bases de datos,50.4,63.4,9.0,2.0,Sin beca,Archivo CSV,0.0,No,2026-06-10,POL-SEG-01 sin autorización de uso analítico
+EP-003795,2025-02-10,Telecomunicaciones,Virtual,Continuidad,Estadística,68.7,65.9,109.0,2.0,Sin beca,Moodle,1.0,No,2025-02-12,POL-SEG-01 sin autorización de uso analítico
+EP-002002,2025-06-18,Civil,Virtual,Continuidad,Matemática I,77.0,100.0,999.0,0.0,Sin beca,Moodle,0.0,No,2025-07-22,POL-SEG-01 sin autorización de uso analítico
+EP-002402,2025-11-15,Civil,Virtual,Nuevo ingreso,Bases de datos,62.2,72.9,71.0,0.0,Sin beca,Bienestar,1.0,No,2025-12-01,POL-SEG-01 sin autorización de uso analítico
+EP-009141,2026-06-11,Telecomunicaciones,Por encuentros,Continuidad,Estadística,-1.0,76.9,24.0,0.0,Beca completa,Bienestar,0.0,No,2026-06-16,POL-SEG-01 sin autorización de uso analítico
+EP-008386,2026-02-23,Telecomunicaciones,Virtual,Nuevo ingreso,Física I,76.3,64.5,51.0,5.0,,Moodle,1.0,No,2026-02-27,POL-SEG-01 sin autorización de uso analítico
+EP-006084,2026-04-06,Sistemas,Por encuentros,Nuevo ingreso,Programación I,74.4,82.9,63.0,0.0,Sin beca,Moodle,0.0,No,2026-04-06,POL-SEG-01 sin autorización de uso analítico
+EP-001658,2025-05-03,Civil,Por encuentros,Nuevo ingreso,Matemática I,70.7,67.0,59.0,1.0,Sin beca,Bienestar,1.0,No,2025-05-04,POL-SEG-01 sin autorización de uso analítico
+EP-004628,2026-05-27,Telecomunicaciones,Presencial,Nuevo ingreso,Estadística,94.7,80.5,144.0,0.0,Sin beca,Moodle,0.0,No,2026-05-30,POL-SEG-01 sin autorización de uso analítico
+EP-002703,2026-06-09,Sistemas,Presencial,Nuevo ingreso,Programación I,63.6,58.5,75.0,4.0,,Moodle,1.0,No,2026-07-04,POL-SEG-01 sin autorización de uso analítico
+EP-007992,2025-02-03,Industrial,Por encuentros,Continuidad,Matemática I,88.4,78.6,107.0,0.0,Sin beca,Moodle,0.0,No,2025-02-07,POL-SEG-01 sin autorización de uso analítico
+EP-007187,2026-02-22,Sistemas,Por encuentros,Continuidad,Bases de datos,79.1,94.9,93.0,0.0,Sin beca,Archivo CSV,0.0,No,2026-02-25,POL-SEG-01 sin autorización de uso analítico
+EP-009107,2025-11-21,Industrial,Virtual,Nuevo ingreso,Matemática I,67.5,83.8,95.0,1.0,Beca parcial,SIGA,0.0,No,2025-11-22,POL-SEG-01 sin autorización de uso analítico
+EP-006942,2025-06-03,Industrial,Presencial,Continuidad,Matemática I,67.5,64.2,68.0,0.0,Beca completa,Moodle,0.0,,2025-06-08,POL-SEG-01 sin autorización de uso analítico
+EP-002557,2025-12-15,Sistemas,Virtual,Continuidad,Matemática I,72.6,63.9,67.0,1.0,Beca completa,Moodle,1.0,No,2025-12-15,POL-SEG-01 sin autorización de uso analítico
+EP-005126,2026-04-20,Industrial,Virtual,Continuidad,Física I,80.2,100.0,111.0,0.0,Sin beca,SIGA,0.0,No,2026-04-21,POL-SEG-01 sin autorización de uso analítico
+EP-005214,2026-06-27,Sistemas,Por encuentros,Continuidad,Matemática I,58.5,53.5,20.0,3.0,Tutoría académica,Moodle,1.0,No,2026-06-30,POL-SEG-01 sin autorización de uso analítico
+EP-005365,2025-01-28,Industrial,Presencial,Nuevo ingreso,Matemática I,15.0,78.3,46.0,1.0,Beca parcial,Moodle,0.0,No,2025-02-01,POL-SEG-01 sin autorización de uso analítico
+EP-003974,2025-06-19,Civil,Virtual,Continuidad,Física I,64.9,79.3,91.0,0.0,Tutoría académica,Moodle,1.0,No,2025-06-24,POL-SEG-01 sin autorización de uso analítico
+EP-007461,2025-06-23,Sistemas,Virtual,Continuidad,Bases de datos,67.5,65.1,78.0,2.0,Sin beca,Moodle,1.0,No,2025-06-26,POL-SEG-01 sin autorización de uso analítico
+EP-001501,2026-06-21,Sistemas,,Continuidad,Estadística,63.7,68.1,85.0,3.0,Beca parcial,Archivo CSV,1.0,No,2026-06-24,POL-SEG-01 sin autorización de uso analítico
+EP-009512,2026-03-14,Telecomunicaciones,Virtual,Continuidad,Física I,93.3,100.0,133.0,0.0,Tutoría académica,SIGA,0.0,No,2026-03-17,POL-SEG-01 sin autorización de uso analítico
+EP-007634,2025-05-15,Civil,Por encuentros,Continuidad,Física I,81.0,78.1,91.0,0.0,Sin beca,Moodle,1.0,,2025-05-17,POL-SEG-01 sin autorización de uso analítico
+EP-008194,2026-06-15,Industrial,Presencial,Continuidad,Física I,81.4,90.0,119.0,0.0,Sin beca,Moodle,0.0,,2026-06-17,POL-SEG-01 sin autorización de uso analítico
+EP-001052,2025-08-14,Computación,Presencial,Nuevo ingreso,Física I,81.2,71.1,92.0,0.0,Sin beca,SIGA,0.0,No,2025-08-18,POL-SEG-01 sin autorización de uso analítico
+EP-006077,2025-11-20,Telecomunicaciones,Virtual,Continuidad,Bases de datos,70.5,87.0,113.0,0.0,Tutoría académica,Bienestar,0.0,No,2025-11-25,POL-SEG-01 sin autorización de uso analítico
+EP-008258,2025-10-04,Sistemas,Virtual,Continuidad,Programación I,48.0,79.3,17.0,3.0,Beca parcial,SIGA,1.0,No,2025-10-09,POL-SEG-01 sin autorización de uso analítico
+EP-009765,2026-01-28,Industrial,Virtual,Nuevo ingreso,Estadística,59.6,68.0,61.0,1.0,Beca parcial,Archivo CSV,0.0,No,2026-01-28,POL-SEG-01 sin autorización de uso analítico
+EP-004545,2026-06-18,Sistemas,Por encuentros,Nuevo ingreso,Programación I,82.7,81.6,109.0,0.0,Beca parcial,Moodle,0.0,No,2026-06-23,POL-SEG-01 sin autorización de uso analítico
+EP-008259,2025-05-10,Telecomunicaciones,Virtual,Continuidad,Estadística,69.5,73.4,77.0,2.0,Beca parcial,SIGA,0.0,No,2025-05-15,POL-SEG-01 sin autorización de uso analítico
+EP-002036,2025-09-16,Computación,Presencial,Continuidad,Programación I,71.0,69.4,57.0,0.0,Sin beca,Bienestar,1.0,No,2025-09-21,POL-SEG-01 sin autorización de uso analítico
+EP-005566,2025-04-22,Industrial,Virtual,Continuidad,Bases de datos,67.6,66.2,48.0,0.0,Beca completa,Moodle,0.0,No,2025-04-24,POL-SEG-01 sin autorización de uso analítico
+EP-002093,2025-07-21,Industrial,Virtual,Continuidad,Programación I,69.5,70.3,88.0,3.0,Tutoría académica,SIGA,1.0,No,2025-07-25,POL-SEG-01 sin autorización de uso analítico
+EP-006977,2025-07-17,Civil,Presencial,Continuidad,Programación I,96.0,100.0,99.0,0.0,Beca parcial,Archivo CSV,0.0,No,2025-07-18,POL-SEG-01 sin autorización de uso analítico
+EP-009325,2025-12-15,Telecomunicaciones,Virtual,Nuevo ingreso,Matemática I,51.2,45.4,54.0,2.0,Sin beca,SIGA,1.0,No,2025-12-15,POL-SEG-01 sin autorización de uso analítico
+EP-002705,2025-10-24,Sistemas,Presencial,Nuevo ingreso,Física I,81.1,64.2,70.0,0.0,Beca parcial,Moodle,0.0,No,2025-10-26,POL-SEG-01 sin autorización de uso analítico
+EP-009676,2025-06-25,Industrial,Por encuentros,Continuidad,Programación I,69.7,83.2,98.0,0.0,Sin beca,SIGA,1.0,,2025-06-29,POL-SEG-01 sin autorización de uso analítico
+EP-008369,2026-03-25,Sistemas,Presencial,Continuidad,Programación I,68.1,70.4,22.0,5.0,Sin beca,SIGA,1.0,No,2026-03-26,POL-SEG-01 sin autorización de uso analítico
+EP-007615,2026-06-06,Industrial,Presencial,Continuidad,Estadística,68.5,83.5,49.0,1.0,Tutoría académica,SIGA,0.0,No,2026-06-06,POL-SEG-01 sin autorización de uso analítico
+EP-000414,2026-05-12,Industrial,Virtual,Continuidad,Física I,71.1,77.8,83.0,0.0,Beca completa,SIGA,1.0,No,2026-05-15,POL-SEG-01 sin autorización de uso analítico
+EP-009726,2025-08-10,Sistemas,Presencial,Nuevo ingreso,Matemática I,72.2,83.8,95.0,4.0,Tutoría académica,SIGA,0.0,No,2025-08-11,POL-SEG-01 sin autorización de uso analítico
+EP-009026,2025-01-18,Industrial,Virtual,Continuidad,Matemática I,63.1,63.2,50.0,2.0,Sin beca,Moodle,1.0,,2025-01-18,POL-SEG-01 sin autorización de uso analítico
+EP-005811,2025-12-15,Computación,Virtual,Nuevo ingreso,Matemática I,65.7,71.1,106.0,3.0,Sin beca,Bienestar,1.0,No,2025-12-17,POL-SEG-01 sin autorización de uso analítico
+EP-002518,2025-10-05,Civil,Por encuentros,Reingreso,Bases de datos,62.4,72.8,62.0,2.0,,SIGA,1.0,,2025-10-08,POL-SEG-01 sin autorización de uso analítico
+EP-003352,2025-10-05,Telecomunicaciones,Presencial,Nuevo ingreso,Física I,76.2,80.7,56.0,2.0,Sin beca,Moodle,0.0,No,2025-10-06,POL-SEG-01 sin autorización de uso analítico
+EP-005436,2026-02-01,Computación,Por encuentros,Continuidad,Matemática I,65.4,57.9,,0.0,Sin beca,Bienestar,0.0,No,2026-02-06,POL-SEG-01 sin autorización de uso analítico
+EP-000282,2025-07-22,Sistemas,Por encuentros,Nuevo ingreso,Programación I,70.1,62.7,53.0,0.0,Sin beca,Moodle,0.0,No,2025-07-23,POL-SEG-01 sin autorización de uso analítico
+EP-000483,2025-07-28,Sistemas,Virtual,Continuidad,Programación I,77.0,83.0,149.0,0.0,Beca completa,Moodle,0.0,No,2025-07-31,POL-SEG-01 sin autorización de uso analítico
+EP-005298,2026-04-28,Industrial,Presencial,Reingreso,Física I,62.8,79.2,80.0,2.0,Beca parcial,Moodle,1.0,No,2026-05-03,POL-SEG-01 sin autorización de uso analítico
+EP-001205,2026-03-18,Sistemas,Virtual,Continuidad,Estadística,82.0,90.3,114.0,1.0,,Moodle,0.0,No,2026-03-21,POL-SEG-01 sin autorización de uso analítico
+EP-004229,2026-01-27,Telecomunicaciones,Presencial,Reingreso,Matemática I,76.0,86.6,72.0,1.0,Beca parcial,Bienestar,1.0,,2026-01-29,POL-SEG-01 sin autorización de uso analítico
+EP-006402,2025-08-13,Computación,Virtual,Continuidad,Matemática I,85.0,77.9,,1.0,Sin beca,Bienestar,0.0,,2025-08-15,POL-SEG-01 sin autorización de uso analítico
+EP-003147,2025-10-10,Telecomunicaciones,Virtual,Continuidad,Física I,62.2,62.6,83.0,2.0,Sin beca,Bienestar,1.0,No,2025-10-13,POL-SEG-01 sin autorización de uso analítico
+EP-000522,2025-05-18,Civil,Por encuentros,Continuidad,Programación I,64.9,62.6,12.0,3.0,Tutoría académica,Moodle,0.0,No,2025-05-18,POL-SEG-01 sin autorización de uso analítico
+EP-002997,2025-08-22,Telecomunicaciones,Presencial,Reingreso,Física I,69.9,79.4,79.0,2.0,Beca parcial,Archivo CSV,0.0,No,2025-08-25,POL-SEG-01 sin autorización de uso analítico
+EP-008967,2026-04-20,Telecomunicaciones,Virtual,Nuevo ingreso,Matemática I,65.3,68.1,62.0,1.0,Tutoría académica,Archivo CSV,0.0,No,2026-04-22,POL-SEG-01 sin autorización de uso analítico
+EP-008206,2025-05-26,Computación,Presencial,Nuevo ingreso,Programación I,61.9,62.5,97.0,1.0,Beca completa,SIGA,1.0,No,2025-06-04,POL-SEG-01 sin autorización de uso analítico
+EP-007630,2025-11-23,Sistemas,Virtual,Continuidad,Bases de datos,56.9,74.3,96.0,1.0,Sin beca,SIGA,1.0,No,2025-11-25,POL-SEG-01 sin autorización de uso analítico
+EP-000643,2025-09-13,Sistemas,Por encuentros,Continuidad,Bases de datos,49.7,74.3,18.0,4.0,Beca completa,Bienestar,1.0,No,2025-09-18,POL-SEG-01 sin autorización de uso analítico
+EP-005422,2025-03-13,Civil,Virtual,Nuevo ingreso,Matemática I,67.8,60.9,51.0,1.0,Sin beca,Moodle,0.0,No,2025-03-13,POL-SEG-01 sin autorización de uso analítico
+EP-008047,2025-12-05,Computación,Por encuentros,Continuidad,Estadística,65.4,79.7,54.0,2.0,Beca parcial,Moodle,0.0,No,2025-12-08,POL-SEG-01 sin autorización de uso analítico
+EP-002631,2025-03-24,Industrial,,Continuidad,Programación I,61.3,65.4,57.0,5.0,Sin beca,Archivo CSV,1.0,No,2025-03-27,POL-SEG-01 sin autorización de uso analítico
+EP-008519,2026-06-28,Computación,,Continuidad,Estadística,64.4,68.6,27.0,1.0,,SIGA,0.0,No,2026-07-09,POL-SEG-01 sin autorización de uso analítico
+EP-000079,2026-05-24,Sistemas,Presencial,Nuevo ingreso,Matemática I,84.6,96.6,123.0,0.0,Beca parcial,Bienestar,0.0,No,2026-05-26,POL-SEG-01 sin autorización de uso analítico
+EP-000841,2025-07-11,Telecomunicaciones,Presencial,Nuevo ingreso,Estadística,71.2,79.4,90.0,3.0,Sin beca,Moodle,0.0,No,2025-07-14,POL-SEG-01 sin autorización de uso analítico
+EP-000692,2025-01-25,Telecomunicaciones,Virtual,Nuevo ingreso,Matemática I,71.7,92.3,116.0,2.0,Tutoría académica,SIGA,0.0,No,2025-01-28,POL-SEG-01 sin autorización de uso analítico
+EP-008551,2026-01-10,Computación,Presencial,Continuidad,Programación I,84.7,91.7,98.0,1.0,Sin beca,Bienestar,,No,2026-02-01,POL-SEG-01 sin autorización de uso analítico
+EP-006303,2026-05-26,Computación,Por encuentros,Reingreso,Bases de datos,81.1,71.1,86.0,0.0,Sin beca,Moodle,1.0,No,2026-05-28,POL-SEG-01 sin autorización de uso analítico
+EP-005744,2025-05-20,Civil,Presencial,Nuevo ingreso,Programación I,58.6,79.1,3.0,5.0,Tutoría académica,Moodle,1.0,No,2025-05-20,POL-SEG-01 sin autorización de uso analítico
+EP-002771,2025-05-01,Civil,Virtual,Reingreso,Estadística,78.4,96.7,141.0,0.0,Tutoría académica,Moodle,,No,2025-05-05,POL-SEG-01 sin autorización de uso analítico
+EP-005681,2026-01-02,Industrial,Virtual,Continuidad,Estadística,71.1,79.0,105.0,1.0,Sin beca,SIGA,0.0,No,2026-01-05,POL-SEG-01 sin autorización de uso analítico
+EP-002416,2025-09-20,Industrial,Por encuentros,Nuevo ingreso,Matemática I,63.9,71.0,54.0,2.0,Sin beca,Bienestar,1.0,No,2025-09-20,POL-SEG-01 sin autorización de uso analítico
+EP-004843,2025-06-27,Civil,Virtual,Traslado,Física I,66.7,58.7,37.0,3.0,Tutoría académica,Moodle,1.0,No,2025-06-28,POL-SEG-01 sin autorización de uso analítico
+EP-009267,2025-08-01,Civil,Virtual,Continuidad,Estadística,79.7,88.6,69.0,0.0,Sin beca,SIGA,1.0,No,2025-08-05,POL-SEG-01 sin autorización de uso analítico
+EP-005711,2025-07-05,Civil,Por encuentros,Continuidad,Bases de datos,64.0,62.6,60.0,1.0,Sin beca,Moodle,1.0,No,2025-07-08,POL-SEG-01 sin autorización de uso analítico
+EP-006778,2025-10-04,Computación,Presencial,Continuidad,Estadística,60.7,69.8,57.0,2.0,Beca completa,SIGA,1.0,No,2025-10-08,POL-SEG-01 sin autorización de uso analítico
+EP-005370,2025-06-07,Telecomunicaciones,Por encuentros,Reingreso,Estadística,61.7,66.4,59.0,5.0,Sin beca,Moodle,1.0,No,2025-06-11,POL-SEG-01 sin autorización de uso analítico
+EP-003664,2025-11-21,Computación,Por encuentros,Nuevo ingreso,Física I,76.3,75.9,114.0,0.0,Tutoría académica,SIGA,0.0,No,2025-11-21,POL-SEG-01 sin autorización de uso analítico
+EP-008196,2025-09-18,Computación,Presencial,Reingreso,Física I,69.0,81.9,100.0,0.0,Beca completa,Archivo CSV,0.0,No,2025-09-19,POL-SEG-01 sin autorización de uso analítico
+EP-001365,2025-07-04,Industrial,Virtual,Continuidad,Bases de datos,65.5,71.3,76.0,2.0,Sin beca,Moodle,1.0,No,2025-07-09,POL-SEG-01 sin autorización de uso analítico
+EP-004623,2025-09-27,Industrial,Virtual,Traslado,Física I,67.2,83.4,78.0,2.0,Sin beca,SIGA,0.0,No,2025-09-27,POL-SEG-01 sin autorización de uso analítico
+EP-001107,2025-11-25,Computación,Presencial,Reingreso,Matemática I,72.7,83.2,60.0,0.0,Sin beca,SIGA,1.0,,2025-11-27,POL-SEG-01 sin autorización de uso analítico
+EP-007301,2025-08-05,Computación,Presencial,Nuevo ingreso,Programación I,72.1,72.8,66.0,1.0,Beca completa,SIGA,0.0,No,2025-08-09,POL-SEG-01 sin autorización de uso analítico
+EP-001539,2025-10-17,Industrial,Presencial,Nuevo ingreso,Física I,66.8,75.1,55.0,2.0,Sin beca,SIGA,1.0,No,2025-10-22,POL-SEG-01 sin autorización de uso analítico
+EP-007739,2025-10-13,Telecomunicaciones,Virtual,Traslado,Física I,64.5,71.3,39.0,2.0,Tutoría académica,SIGA,0.0,No,2025-10-14,POL-SEG-01 sin autorización de uso analítico
+EP-002535,2025-01-07,Telecomunicaciones,Virtual,Nuevo ingreso,Física I,61.2,50.8,73.0,1.0,Sin beca,Moodle,1.0,No,2025-01-10,POL-SEG-01 sin autorización de uso analítico
+EP-005315,2026-03-21,Telecomunicaciones,Virtual,Nuevo ingreso,Matemática I,63.3,56.2,68.0,1.0,Sin beca,Archivo CSV,1.0,No,2026-03-21,POL-SEG-01 sin autorización de uso analítico
+EP-007910,2025-10-07,Civil,,Reingreso,Física I,65.9,79.1,20.0,1.0,Sin beca,Bienestar,0.0,No,2025-10-11,POL-SEG-01 sin autorización de uso analítico
+EP-007673,2025-06-23,Computación,Presencial,Continuidad,Física I,54.6,58.4,52.0,1.0,Beca parcial,SIGA,0.0,No,2025-07-06,POL-SEG-01 sin autorización de uso analítico
+EP-007829,2025-06-04,Civil,Por encuentros,Nuevo ingreso,Programación I,71.9,74.1,68.0,2.0,Sin beca,Moodle,0.0,No,2025-06-07,POL-SEG-01 sin autorización de uso analítico
+EP-007760,2026-01-28,Telecomunicaciones,Por encuentros,Continuidad,Matemática I,55.8,84.7,37.0,4.0,Beca parcial,Moodle,1.0,,2026-02-01,POL-SEG-01 sin autorización de uso analítico
+EP-009123,2025-07-17,Industrial,Presencial,Continuidad,Estadística,105.5,66.4,67.0,0.0,Beca parcial,SIGA,1.0,No,2025-07-17,POL-SEG-01 sin autorización de uso analítico
+EP-007030,2025-03-18,Sistemas,Presencial,Continuidad,Física I,59.3,63.6,34.0,4.0,Sin beca,SIGA,1.0,No,2025-04-30,POL-SEG-01 sin autorización de uso analítico
+EP-000749,2026-02-05,Telecomunicaciones,Presencial,Nuevo ingreso,Matemática I,71.0,76.1,64.0,1.0,Sin beca,Moodle,0.0,No,2026-02-05,POL-SEG-01 sin autorización de uso analítico
+EP-008985,2025-04-07,Computación,Presencial,Nuevo ingreso,Bases de datos,75.2,68.3,42.0,1.0,Sin beca,Moodle,1.0,No,2025-04-12,POL-SEG-01 sin autorización de uso analítico
+EP-006522,2025-06-04,Civil,Presencial,Nuevo ingreso,Matemática I,83.8,97.5,122.0,,Beca parcial,Bienestar,0.0,,2025-06-07,POL-SEG-01 sin autorización de uso analítico
+EP-005772,2025-12-11,Sistemas,Por encuentros,Continuidad,Programación I,72.1,72.0,78.0,0.0,Sin beca,SIGA,0.0,No,2025-12-14,POL-SEG-01 sin autorización de uso analítico
+EP-002816,2025-11-09,Computación,Presencial,,Física I,86.3,,78.0,0.0,Sin beca,Moodle,0.0,No,2025-11-11,POL-SEG-01 sin autorización de uso analítico
+EP-003174,2025-09-26,Telecomunicaciones,Virtual,Continuidad,Estadística,66.0,79.9,121.0,2.0,Beca parcial,Archivo CSV,1.0,No,2025-10-15,POL-SEG-01 sin autorización de uso analítico
+EP-001654,2026-04-03,Civil,Presencial,Reingreso,Matemática I,57.9,73.8,39.0,3.0,Sin beca,SIGA,1.0,No,2026-05-04,POL-SEG-01 sin autorización de uso analítico
+EP-006823,2025-02-10,Industrial,Virtual,Reingreso,Bases de datos,82.8,68.4,130.0,0.0,Sin beca,SIGA,0.0,No,2025-02-10,POL-SEG-01 sin autorización de uso analítico
+EP-008938,2025-11-21,Telecomunicaciones,Presencial,Continuidad,Programación I,49.7,71.9,18.0,1.0,Tutoría académica,SIGA,1.0,No,2025-11-25,POL-SEG-01 sin autorización de uso analítico
+EP-002656,2025-10-09,Industrial,Presencial,Continuidad,Bases de datos,,78.9,78.0,3.0,Sin beca,Moodle,0.0,,2025-10-12,POL-SEG-01 sin autorización de uso analítico
+EP-007905,2026-04-20,Sistemas,Virtual,Continuidad,Programación I,64.9,81.3,59.0,2.0,Sin beca,Archivo CSV,1.0,No,2026-04-20,POL-SEG-01 sin autorización de uso analítico
+EP-009009,2026-02-18,Computación,Virtual,Continuidad,Estadística,68.0,90.6,77.0,3.0,Sin beca,Moodle,1.0,,2026-02-21,POL-SEG-01 sin autorización de uso analítico
+EP-006053,2025-02-08,Civil,Virtual,Nuevo ingreso,Bases de datos,68.4,,77.0,1.0,Sin beca,Moodle,0.0,No,2025-02-10,POL-SEG-01 sin autorización de uso analítico
+EP-006925,2026-01-03,Sistemas,Por encuentros,Continuidad,Matemática I,62.6,85.3,63.0,2.0,Beca parcial,SIGA,1.0,No,2026-01-04,POL-SEG-01 sin autorización de uso analítico
+EP-003415,2025-06-01,Civil,Por encuentros,Continuidad,Bases de datos,71.8,62.7,41.0,2.0,Tutoría académica,Archivo CSV,0.0,,2025-06-05,POL-SEG-01 sin autorización de uso analítico
+EP-005476,2025-12-08,Industrial,Virtual,Nuevo ingreso,Programación I,72.3,78.5,70.0,0.0,Tutoría académica,SIGA,1.0,No,2025-12-10,POL-SEG-01 sin autorización de uso analítico
+EP-005769,2026-06-17,Sistemas,Virtual,Continuidad,Estadística,65.5,87.7,49.0,5.0,Beca completa,Moodle,0.0,No,2026-06-21,POL-SEG-01 sin autorización de uso analítico
+EP-009423,2025-03-24,Sistemas,Presencial,Continuidad,Estadística,71.9,71.8,83.0,0.0,Tutoría académica,SIGA,1.0,No,2025-03-24,POL-SEG-01 sin autorización de uso analítico
+EP-000980,2025-05-03,Industrial,Virtual,Continuidad,Bases de datos,74.8,76.8,99.0,0.0,Beca parcial,SIGA,0.0,No,2025-05-07,POL-SEG-01 sin autorización de uso analítico
+EP-008642,2026-01-16,Industrial,Por encuentros,Continuidad,Estadística,68.4,78.1,38.0,1.0,Sin beca,Moodle,0.0,No,2026-01-17,POL-SEG-01 sin autorización de uso analítico
+EP-009593,2025-05-22,Sistemas,Por encuentros,Reingreso,Programación I,79.5,78.3,105.0,0.0,Sin beca,Moodle,0.0,No,2025-05-24,POL-SEG-01 sin autorización de uso analítico
+EP-006618,2026-03-27,Sistemas,Por encuentros,Nuevo ingreso,Estadística,60.5,64.4,39.0,4.0,Tutoría académica,Bienestar,1.0,No,2026-03-28,POL-SEG-01 sin autorización de uso analítico
+EP-007816,2025-05-05,Telecomunicaciones,Por encuentros,Continuidad,Bases de datos,71.6,68.3,74.0,1.0,Beca completa,Archivo CSV,1.0,No,2025-05-05,POL-SEG-01 sin autorización de uso analítico
+EP-007133,2025-10-12,Telecomunicaciones,Por encuentros,Reingreso,Matemática I,81.8,80.8,31.0,2.0,Sin beca,SIGA,1.0,No,2025-10-14,POL-SEG-01 sin autorización de uso analítico
+EP-000777,2026-01-10,Industrial,Virtual,Nuevo ingreso,Estadística,71.3,64.0,102.0,4.0,Tutoría académica,Archivo CSV,1.0,No,2026-01-14,POL-SEG-01 sin autorización de uso analítico
+EP-009483,2025-02-10,Telecomunicaciones,,Continuidad,Bases de datos,56.6,58.6,52.0,2.0,Beca parcial,SIGA,0.0,No,2025-02-15,POL-SEG-01 sin autorización de uso analítico
+EP-005816,2025-12-06,Industrial,Virtual,Nuevo ingreso,Matemática I,,75.2,47.0,0.0,Tutoría académica,SIGA,,No,2025-12-07,POL-SEG-01 sin autorización de uso analítico
+EP-003832,2025-05-01,Industrial,Virtual,Nuevo ingreso,Bases de datos,85.4,83.8,154.0,0.0,Sin beca,SIGA,0.0,No,2025-05-04,POL-SEG-01 sin autorización de uso analítico
+EP-007178,2025-05-11,Computación,Por encuentros,Continuidad,Física I,75.1,70.6,99.0,1.0,Tutoría académica,SIGA,0.0,No,2025-05-12,POL-SEG-01 sin autorización de uso analítico
+EP-002040,2025-07-28,Industrial,Por encuentros,Continuidad,Bases de datos,120.0,60.9,9.0,1.0,Beca parcial,Moodle,1.0,,2025-08-17,POL-SEG-01 sin autorización de uso analítico
+EP-009331,2026-01-06,Sistemas,Presencial,Nuevo ingreso,Programación I,77.1,93.0,110.0,0.0,Tutoría académica,Archivo CSV,1.0,,2026-01-09,POL-SEG-01 sin autorización de uso analítico
+EP-004970,2025-07-02,Computación,Presencial,Reingreso,Bases de datos,77.0,70.7,82.0,0.0,Tutoría académica,Moodle,0.0,,2025-07-05,POL-SEG-01 sin autorización de uso analítico
+EP-008683,2025-04-02,Telecomunicaciones,Virtual,Continuidad,Bases de datos,,61.9,93.0,3.0,Beca parcial,SIGA,1.0,No,2025-04-04,POL-SEG-01 sin autorización de uso analítico
+EP-009297,2026-04-27,Telecomunicaciones,,Reingreso,Estadística,54.4,63.1,18.0,5.0,Sin beca,Bienestar,1.0,No,2026-04-27,POL-SEG-01 sin autorización de uso analítico
+EP-007614,2026-05-17,Industrial,Virtual,Continuidad,Estadística,63.2,77.6,78.0,2.0,Tutoría académica,SIGA,1.0,No,2026-05-22,POL-SEG-01 sin autorización de uso analítico
+EP-008210,2025-08-11,Industrial,,Continuidad,Bases de datos,71.7,63.4,108.0,1.0,Tutoría académica,Archivo CSV,0.0,No,2025-08-13,POL-SEG-01 sin autorización de uso analítico
+EP-001073,2026-01-22,Sistemas,Por encuentros,Continuidad,Matemática I,81.5,87.6,108.0,0.0,Tutoría académica,SIGA,1.0,No,2026-01-26,POL-SEG-01 sin autorización de uso analítico
+EP-003719,2025-06-25,Industrial,Por encuentros,Continuidad,Física I,50.2,63.2,0.0,5.0,Tutoría académica,Moodle,1.0,No,2025-06-28,POL-SEG-01 sin autorización de uso analítico
+EP-005364,2026-06-27,Telecomunicaciones,Presencial,Continuidad,Programación I,75.5,76.5,74.0,4.0,Sin beca,SIGA,1.0,No,2026-06-27,POL-SEG-01 sin autorización de uso analítico
+EP-006674,2025-11-23,Sistemas,Por encuentros,Continuidad,FÍSICA I,61.1,71.8,47.0,0.0,Sin beca,Archivo CSV,0.0,No,2025-11-28,POL-SEG-01 sin autorización de uso analítico
+EP-000458,2026-05-26,Industrial,Presencial,Nuevo ingreso,Matemática I,60.0,75.4,,3.0,Beca completa,Archivo CSV,0.0,,2026-05-29,POL-SEG-01 sin autorización de uso analítico
+EP-003287,2025-09-08,Industrial,Virtual,Traslado,Programación I,81.3,69.6,113.0,0.0,Tutoría académica,Moodle,0.0,No,2025-09-12,POL-SEG-01 sin autorización de uso analítico
+EP-003646,2025-09-20,Civil,Presencial,Continuidad,Matemática I,75.6,89.1,59.0,0.0,Sin beca,Moodle,1.0,No,2025-09-24,POL-SEG-01 sin autorización de uso analítico
+EP-007088,2025-04-11,Computación,Por encuentros,Reingreso,Bases de datos,71.3,68.9,75.0,2.0,Tutoría académica,SIGA,0.0,No,2025-04-16,POL-SEG-01 sin autorización de uso analítico
+EP-007824,2026-02-06,Telecomunicaciones,Virtual,Continuidad,Estadística,71.4,72.5,122.0,0.0,Sin beca,Moodle,0.0,No,2026-03-19,POL-SEG-01 sin autorización de uso analítico
+EP-005077,2025-03-01,Sistemas,Por encuentros,Continuidad,Matemática I,48.0,64.7,999.0,5.0,Sin beca,Archivo CSV,1.0,No,2025-04-10,POL-SEG-01 sin autorización de uso analítico
+EP-007142,2025-09-27,Industrial,Presencial,Continuidad,Programación I,66.6,84.9,78.0,1.0,Sin beca,Bienestar,0.0,No,2025-09-30,POL-SEG-01 sin autorización de uso analítico
+EP-008294,2026-01-03,Sistemas,Virtual,Continuidad,Bases de datos,88.1,80.8,104.0,1.0,Tutoría académica,SIGA,1.0,No,2026-01-03,POL-SEG-01 sin autorización de uso analítico
+EP-000447,2025-12-10,Industrial,Presencial,Nuevo ingreso,Programación I,68.5,76.0,88.0,2.0,Beca completa,Archivo CSV,0.0,No,2025-12-15,POL-SEG-01 sin autorización de uso analítico
+EP-002796,2025-05-20,Computación,Por encuentros,Continuidad,Programación I,52.1,62.8,14.0,2.0,Sin beca,Archivo CSV,0.0,No,2025-05-23,POL-SEG-01 sin autorización de uso analítico
+EP-006666,2025-06-08,Industrial,Virtual,Continuidad,Física I,80.8,87.2,130.0,0.0,Tutoría académica,SIGA,,No,2025-06-10,POL-SEG-01 sin autorización de uso analítico
+EP-008330,2026-06-08,Industrial,Presencial,Continuidad,Matemática I,83.1,76.2,79.0,0.0,Beca parcial,Bienestar,0.0,No,2026-06-09,POL-SEG-01 sin autorización de uso analítico
+EP-003703,2026-02-03,Telecomunicaciones,Virtual,Nuevo ingreso,Física I,,64.2,23.0,2.0,Sin beca,Archivo CSV,1.0,No,2026-02-05,POL-SEG-01 sin autorización de uso analítico
+EP-006075,2025-06-11,Civil,Virtual,Continuidad,Matemática I,65.0,71.0,114.0,0.0,Tutoría académica,Moodle,0.0,No,2025-06-13,POL-SEG-01 sin autorización de uso analítico
+EP-008556,2026-02-16,Sistemas,Por encuentros,Continuidad,Matemática I,53.8,67.2,83.0,2.0,Tutoría académica,Moodle,1.0,,2026-02-21,POL-SEG-01 sin autorización de uso analítico
+EP-007775,2025-07-06,Civil,Presencial,Continuidad,Física I,69.1,89.6,63.0,0.0,Beca parcial,Moodle,,,2025-07-11,POL-SEG-01 sin autorización de uso analítico
+EP-008775,2025-07-09,Industrial,Virtual,Reingreso,Física I,59.9,68.4,28.0,1.0,Sin beca,SIGA,1.0,No,2025-07-10,POL-SEG-01 sin autorización de uso analítico
+EP-000051,2025-03-14,Industrial,Virtual,Nuevo ingreso,Bases de datos,63.4,70.7,60.0,0.0,Sin beca,SIGA,1.0,No,2025-03-14,POL-SEG-01 sin autorización de uso analítico
+EP-009556,2025-08-14,Telecomunicaciones,Por encuentros,Continuidad,Estadística,71.2,80.3,61.0,1.0,Sin beca,Bienestar,1.0,No,2025-08-14,POL-SEG-01 sin autorización de uso analítico
+EP-005647,2025-03-25,Civil,Por encuentros,Nuevo ingreso,Matemática I,73.4,73.5,47.0,1.0,Beca parcial,Bienestar,0.0,No,2025-03-29,POL-SEG-01 sin autorización de uso analítico
+EP-000997,2025-03-15,Industrial,Presencial,Continuidad,Programación I,68.7,72.9,81.0,0.0,Sin beca,Archivo CSV,1.0,No,2025-04-18,POL-SEG-01 sin autorización de uso analítico
+EP-003480,2025-01-04,Computación,Virtual,Continuidad,Estadística,50.7,66.7,84.0,2.0,Sin beca,SIGA,1.0,No,2025-01-07,POL-SEG-01 sin autorización de uso analítico
+EP-004921,2025-08-04,Computación,,Continuidad,Física I,65.2,77.9,76.0,0.0,Beca parcial,SIGA,1.0,No,2025-08-05,POL-SEG-01 sin autorización de uso analítico
+EP-002161,2025-01-05,Telecomunicaciones,Por encuentros,Traslado,Estadística,56.9,63.6,17.0,2.0,Sin beca,Archivo CSV,0.0,No,2025-01-05,POL-SEG-01 sin autorización de uso analítico
+EP-004618,2025-11-19,Sistemas,Virtual,Reingreso,Física I,58.8,64.8,53.0,1.0,Sin beca,Moodle,1.0,No,2025-11-23,POL-SEG-01 sin autorización de uso analítico
+EP-001152,2025-03-02,Industrial,Virtual,Nuevo ingreso,Programación I,79.3,73.6,84.0,1.0,Sin beca,SIGA,1.0,No,2025-03-05,POL-SEG-01 sin autorización de uso analítico
+EP-006388,2025-06-26,Computación,Presencial,Nuevo ingreso,Bases de datos,89.6,80.9,96.0,0.0,Sin beca,Moodle,0.0,No,2025-06-30,POL-SEG-01 sin autorización de uso analítico
+EP-001241,2026-06-26,Industrial,Presencial,Continuidad,Física I,77.1,88.7,86.0,2.0,Beca completa,SIGA,0.0,No,2026-06-29,POL-SEG-01 sin autorización de uso analítico
+EP-007477,2026-04-24,Sistemas,Virtual,Traslado,Matemática I,78.9,87.6,82.0,0.0,Sin beca,Moodle,0.0,No,2026-04-25,POL-SEG-01 sin autorización de uso analítico
+EP-008250,2025-12-10,Civil,Presencial,Continuidad,Programación I,81.3,80.4,110.0,1.0,Sin beca,Moodle,0.0,No,2025-12-10,POL-SEG-01 sin autorización de uso analítico
+EP-006663,2025-05-10,Telecomunicaciones,Virtual,Nuevo ingreso,Bases de datos,91.0,81.9,151.0,0.0,Tutoría académica,Archivo CSV,0.0,No,2025-05-11,POL-SEG-01 sin autorización de uso analítico
+EP-006099,2025-03-02,Computación,Virtual,Reingreso,Bases de datos,76.5,77.4,120.0,1.0,Sin beca,SIGA,0.0,No,2025-03-03,POL-SEG-01 sin autorización de uso analítico
+EP-009449,2025-01-20,Civil,Virtual,Reingreso,Física I,,110.0,49.0,3.0,Beca parcial,SIGA,1.0,No,2025-01-20,POL-SEG-01 sin autorización de uso analítico
+EP-007002,2025-08-18,Industrial,Por encuentros,Continuidad,Bases de datos,81.8,100.0,73.0,0.0,Beca completa,SIGA,1.0,No,2025-08-22,POL-SEG-01 sin autorización de uso analítico
+EP-005321,2025-12-21,Telecomunicaciones,Presencial,Continuidad,Estadística,,89.1,102.0,0.0,Beca completa,Moodle,0.0,No,2025-12-26,POL-SEG-01 sin autorización de uso analítico
+EP-007170,2026-04-26,Computación,Presencial,Nuevo ingreso,Matemática I,73.2,78.7,52.0,,Sin beca,SIGA,0.0,No,2026-05-01,POL-SEG-01 sin autorización de uso analítico
+EP-000424,2025-08-10,Industrial,Virtual,Nuevo ingreso,Matemática I,81.3,76.3,106.0,2.0,Sin beca,SIGA,0.0,No,2025-08-14,POL-SEG-01 sin autorización de uso analítico
+EP-002179,2026-01-12,Telecomunicaciones,Virtual,Nuevo ingreso,Bases de datos,65.9,74.9,71.0,2.0,Tutoría académica,Archivo CSV,1.0,No,2026-02-19,POL-SEG-01 sin autorización de uso analítico
+EP-004398,2025-11-14,Telecomunicaciones,Por encuentros,Continuidad,Matemática I,60.8,72.2,69.0,5.0,Beca completa,Moodle,1.0,No,2025-11-18,POL-SEG-01 sin autorización de uso analítico
+EP-005506,2025-11-12,Telecomunicaciones,Presencial,Nuevo ingreso,Estadística,48.0,47.4,0.0,4.0,Sin beca,SIGA,1.0,,2025-11-15,POL-SEG-01 sin autorización de uso analítico
+EP-004392,2026-05-03,Telecomunicaciones,Presencial,Nuevo ingreso,Estadística,72.0,76.0,66.0,,Sin beca,SIGA,0.0,No,2026-05-03,POL-SEG-01 sin autorización de uso analítico
+EP-007792,2026-04-08,Telecomunicaciones,Presencial,Reingreso,Bases de datos,80.7,72.4,72.0,0.0,Beca parcial,Archivo CSV,0.0,No,2026-04-11,POL-SEG-01 sin autorización de uso analítico
+EP-006436,2025-05-17,Sistemas,Virtual,Reingreso,Estadística,51.2,43.9,46.0,3.0,Sin beca,Moodle,1.0,No,2025-05-18,POL-SEG-01 sin autorización de uso analítico
+EP-007357,2026-05-22,Telecomunicaciones,Virtual,Reingreso,Estadística,57.6,65.0,45.0,2.0,Beca parcial,SIGA,1.0,No,2026-05-24,POL-SEG-01 sin autorización de uso analítico
+EP-008717,2026-03-02,Computación,Por encuentros,Continuidad,Estadística,65.1,75.5,75.0,3.0,Beca completa,Archivo CSV,1.0,No,2026-03-04,POL-SEG-01 sin autorización de uso analítico
+EP-005580,2025-09-06,Industrial,Virtual,Traslado,Bases de datos,74.3,66.8,94.0,2.0,Sin beca,SIGA,0.0,No,2025-09-07,POL-SEG-01 sin autorización de uso analítico
+EP-007352,2025-07-14,Telecomunicaciones,Presencial,Continuidad,Física I,52.5,73.1,48.0,1.0,Tutoría académica,SIGA,0.0,No,2025-07-19,POL-SEG-01 sin autorización de uso analítico
+EP-004078,2025-11-03,Civil,Virtual,Nuevo ingreso,Bases de datos,78.3,66.2,88.0,1.0,Sin beca,Archivo CSV,0.0,No,2025-11-03,POL-SEG-01 sin autorización de uso analítico
+EP-003408,2026-05-01,Computación,Por encuentros,Nuevo ingreso,Física I,74.1,87.0,84.0,1.0,Sin beca,SIGA,1.0,No,2026-05-04,POL-SEG-01 sin autorización de uso analítico
+EP-005206,2025-12-13,Computación,Por encuentros,Reingreso,Física I,76.1,99.4,84.0,0.0,Beca parcial,SIGA,0.0,,2025-12-16,POL-SEG-01 sin autorización de uso analítico
+EP-006505,2025-05-09,Sistemas,Presencial,Traslado,Matemática I,95.6,94.5,98.0,0.0,Tutoría académica,SIGA,0.0,No,2025-05-30,POL-SEG-01 sin autorización de uso analítico
+EP-002481,2025-05-08,Telecomunicaciones,Virtual,Nuevo ingreso,Estadística,77.0,76.0,99.0,,Sin beca,Archivo CSV,1.0,No,2025-05-08,POL-SEG-01 sin autorización de uso analítico
+EP-004788,2025-12-08,Civil,Por encuentros,Nuevo ingreso,Estadística,72.0,73.1,83.0,0.0,Sin beca,Bienestar,0.0,No,2025-12-09,POL-SEG-01 sin autorización de uso analítico
+EP-006149,2025-06-06,Telecomunicaciones,Por encuentros,Traslado,Matemática I,55.0,76.6,50.0,1.0,Sin beca,Archivo CSV,1.0,No,2025-06-07,POL-SEG-01 sin autorización de uso analítico
+EP-006932,2025-04-10,Sistemas,Por encuentros,Nuevo ingreso,Bases de datos,77.3,82.2,44.0,0.0,Sin beca,Moodle,0.0,No,2025-05-18,POL-SEG-01 sin autorización de uso analítico
+EP-001865,2025-02-23,Civil,Virtual,Continuidad,Estadística,77.6,5.0,118.0,1.0,Sin beca,SIGA,0.0,No,2025-02-27,POL-SEG-01 sin autorización de uso analítico
+EP-006426,2025-04-04,Sistemas,Presencial,Nuevo ingreso,Matemática I,67.9,76.8,59.0,0.0,Tutoría académica,SIGA,1.0,,2025-04-05,POL-SEG-01 sin autorización de uso analítico
+EP-001851,2026-01-22,Industrial,Presencial,Nuevo ingreso,Física I,91.7,,91.0,0.0,Sin beca,Archivo CSV,0.0,No,2026-01-23,POL-SEG-01 sin autorización de uso analítico
+EP-008800,2025-09-09,Civil,Presencial,Reingreso,Bases de datos,68.2,82.4,45.0,0.0,Sin beca,Moodle,1.0,No,2025-09-11,POL-SEG-01 sin autorización de uso analítico
+EP-006314,2026-02-18,Industrial,Virtual,Reingreso,Bases de datos,70.3,51.4,74.0,0.0,Sin beca,SIGA,0.0,No,2026-02-22,POL-SEG-01 sin autorización de uso analítico
+EP-003075,2025-06-13,Civil,Por encuentros,Nuevo ingreso,Programación I,72.7,74.1,90.0,0.0,Sin beca,SIGA,0.0,No,2025-06-16,POL-SEG-01 sin autorización de uso analítico
+EP-007378,2025-01-17,Sistemas,Por encuentros,Nuevo ingreso,Estadística,90.9,100.0,135.0,0.0,Sin beca,Moodle,0.0,No,2025-01-22,POL-SEG-01 sin autorización de uso analítico
+EP-007306,2026-02-02,Telecomunicaciones,Por encuentros,Nuevo ingreso,Matemática I,52.0,72.1,0.0,3.0,Tutoría académica,SIGA,0.0,No,2026-02-03,POL-SEG-01 sin autorización de uso analítico
+EP-002380,2025-10-11,Industrial,Presencial,,Bases de datos,79.5,84.2,84.0,1.0,Tutoría académica,Moodle,0.0,No,2025-10-13,POL-SEG-01 sin autorización de uso analítico
+EP-008257,2025-06-13,Civil,,Continuidad,Estadística,54.0,65.4,33.0,2.0,Beca parcial,SIGA,1.0,No,2025-06-14,POL-SEG-01 sin autorización de uso analítico
+EP-004381,2026-06-01,Sistemas,Por encuentros,Nuevo ingreso,Programación I,65.2,64.2,56.0,1.0,Beca completa,Bienestar,1.0,No,2026-06-05,POL-SEG-01 sin autorización de uso analítico
+EP-000022,2026-06-16,Telecomunicaciones,Presencial,Continuidad,Física I,75.9,79.6,68.0,2.0,Sin beca,Archivo CSV,1.0,No,2026-06-17,POL-SEG-01 sin autorización de uso analítico
+EP-001673,2025-12-16,Civil,Virtual,Continuidad,Estadística,55.6,46.5,62.0,3.0,Sin beca,SIGA,0.0,No,2025-12-18,POL-SEG-01 sin autorización de uso analítico
+EP-008697,2025-09-15,Industrial,Por encuentros,Nuevo ingreso,Matemática I,79.2,82.7,87.0,0.0,Sin beca,Bienestar,0.0,No,2025-09-16,POL-SEG-01 sin autorización de uso analítico
+EP-003658,2026-05-27,Telecomunicaciones,Virtual,Continuidad,Estadística,96.0,87.7,171.0,0.0,Beca completa,Bienestar,0.0,No,2026-05-31,POL-SEG-01 sin autorización de uso analítico
+EP-002973,2026-06-08,Telecomunicaciones,Virtual,Continuidad,Matemática I,62.6,63.3,104.0,0.0,Sin beca,Archivo CSV,0.0,No,2026-06-12,POL-SEG-01 sin autorización de uso analítico
+EP-004475,2026-01-05,Civil,Virtual,Nuevo ingreso,Matemática I,72.7,71.4,71.0,1.0,Tutoría académica,Moodle,1.0,No,2026-01-10,POL-SEG-01 sin autorización de uso analítico
+EP-005334,2026-06-26,Industrial,Virtual,Nuevo ingreso,Matemática I,75.8,72.4,,0.0,Sin beca,Archivo CSV,0.0,No,2026-07-01,POL-SEG-01 sin autorización de uso analítico
+EP-006238,2025-08-16,Sistemas,Presencial,Reingreso,Matemática I,66.5,74.6,101.0,0.0,Tutoría académica,Moodle,0.0,No,2025-08-16,POL-SEG-01 sin autorización de uso analítico
+EP-007738,2025-06-19,Telecomunicaciones,Presencial,Nuevo ingreso,Física I,65.3,78.6,61.0,2.0,Tutoría académica,SIGA,1.0,No,2025-06-20,POL-SEG-01 sin autorización de uso analítico
+EP-000502,2025-02-07,Computación,Presencial,Continuidad,Matemática I,72.5,76.5,28.0,1.0,Sin beca,SIGA,1.0,No,2025-03-05,POL-SEG-01 sin autorización de uso analítico
+EP-006749,2025-06-19,Civil,Virtual,Nuevo ingreso,Física I,61.5,70.9,82.0,0.0,Sin beca,SIGA,0.0,,2025-06-20,POL-SEG-01 sin autorización de uso analítico
+EP-004258,2025-08-25,Telecomunicaciones,Presencial,Traslado,Matemática I,74.1,69.1,74.0,1.0,Sin beca,SIGA,1.0,No,2025-08-30,POL-SEG-01 sin autorización de uso analítico
+EP-005129,2025-10-07,Sistemas,Por encuentros,Continuidad,Física I,81.6,100.0,115.0,0.0,Beca parcial,Moodle,0.0,No,2025-10-11,POL-SEG-01 sin autorización de uso analítico
+EP-003306,2026-01-22,Telecomunicaciones,Virtual,Continuidad, Matemática I ,60.4,70.3,28.0,2.0,Beca completa,SIGA,1.0,No,2026-01-27,POL-SEG-01 sin autorización de uso analítico
+EP-001183,2025-03-28,Telecomunicaciones,Presencial,Nuevo ingreso,Física I,57.9,60.5,14.0,2.0,Beca completa,SIGA,1.0,No,2025-04-11,POL-SEG-01 sin autorización de uso analítico
+EP-004053,2026-04-16,Sistemas,Por encuentros,Continuidad,Bases de datos,80.0,89.8,94.0,0.0,Beca parcial,Archivo CSV,0.0,No,2026-04-21,POL-SEG-01 sin autorización de uso analítico
+EP-007841,2025-12-10,Computación,Virtual,Continuidad,Bases de datos,80.4,5.0,110.0,1.0,Beca completa,Archivo CSV,0.0,No,2025-12-23,POL-SEG-01 sin autorización de uso analítico
+EP-004363,2025-02-12,Industrial,,Nuevo ingreso,Estadística,63.0,62.2,7.0,2.0,Beca parcial,Archivo CSV,0.0,No,2025-02-17,POL-SEG-01 sin autorización de uso analítico
+EP-006549,2026-03-23,Computación,Presencial,Nuevo ingreso,Programación I,84.4,72.9,74.0,2.0,Tutoría académica,Archivo CSV,1.0,No,2026-03-23,POL-SEG-01 sin autorización de uso analítico
+EP-004504,2025-06-09,Industrial,Por encuentros,Continuidad,Bases de datos,80.1,77.7,68.0,2.0,Sin beca,Moodle,1.0,No,2025-06-10,POL-SEG-01 sin autorización de uso analítico
+EP-003094,2025-04-20,Sistemas,Por encuentros,Reingreso,Estadística,73.0,81.0,87.0,-1.0,Beca completa,Moodle,0.0,,2025-04-29,POL-SEG-01 sin autorización de uso analítico
+EP-000322,2026-04-23,Civil,Presencial,Nuevo ingreso,Matemática I,77.5,65.7,100.0,0.0,Beca parcial,Moodle,0.0,No,2026-04-25,POL-SEG-01 sin autorización de uso analítico
+EP-006381,2025-09-01,Industrial,Por encuentros,Reingreso,Bases de datos,60.0,72.2,57.0,3.0,Beca completa,Moodle,0.0,No,2025-10-05,POL-SEG-01 sin autorización de uso analítico
+EP-004213,2025-12-03,Telecomunicaciones,Presencial,Continuidad,Programación I,76.1,80.7,77.0,4.0,Sin beca,SIGA,0.0,No,2025-12-03,POL-SEG-01 sin autorización de uso analítico
+EP-009543,2025-05-18,Civil,Presencial,Reingreso,Bases de datos,62.5,76.7,17.0,5.0,Sin beca,Bienestar,1.0,No,2025-05-19,POL-SEG-01 sin autorización de uso analítico
+EP-008176,2025-03-24,Sistemas,Presencial,Nuevo ingreso,Física I,84.5,89.2,69.0,7.0,Sin beca,SIGA,0.0,No,2025-03-26,POL-SEG-01 sin autorización de uso analítico
+EP-003575,2026-03-20,Sistemas,Virtual,Continuidad,Estadística,81.2,81.6,98.0,,Sin beca,Moodle,0.0,No,2026-04-07,POL-SEG-01 sin autorización de uso analítico
+EP-002026,2026-05-13,Sistemas,Por encuentros,Continuidad,Matemática I,71.6,93.4,121.0,1.0,Sin beca,SIGA,0.0,No,2026-05-13,POL-SEG-01 sin autorización de uso analítico
+EP-001390,2026-01-11,Industrial,Presencial,Traslado,Bases de datos,71.7,70.7,46.0,5.0,Tutoría académica,SIGA,1.0,No,2026-01-16,POL-SEG-01 sin autorización de uso analítico
+EP-000809,2025-04-24,Civil,Por encuentros,Reingreso,Programación I,60.9,80.4,21.0,1.0,Beca completa,SIGA,0.0,No,2025-04-28,POL-SEG-01 sin autorización de uso analítico
+EP-006155,2025-01-11,Telecomunicaciones,Presencial,Nuevo ingreso,Física I,81.2,68.1,75.0,0.0,Beca parcial,SIGA,0.0,No,2025-01-14,POL-SEG-01 sin autorización de uso analítico
+EP-005682,2026-04-14,Telecomunicaciones,Virtual,Continuidad,Estadística,56.0,77.8,3.0,3.0,Tutoría académica,Moodle,1.0,,2026-04-14,POL-SEG-01 sin autorización de uso analítico
+EP-003948,2025-07-28,Telecomunicaciones,,Continuidad,Física I,69.4,84.0,73.0,0.0,Tutoría académica,Moodle,0.0,No,2025-07-30,POL-SEG-01 sin autorización de uso analítico
+EP-003702,2026-02-08,Computación,Virtual,Continuidad,Programación I,66.9,-3.0,97.0,1.0,Tutoría académica,SIGA,1.0,No,2026-02-13,POL-SEG-01 sin autorización de uso analítico
+EP-008400,2025-11-17,Sistemas,Por encuentros,Continuidad,Programación I,64.6,86.9,44.0,0.0,Sin beca,Moodle,0.0,No,2025-11-20,POL-SEG-01 sin autorización de uso analítico
+EP-007790,2025-09-10,Telecomunicaciones,Virtual,Nuevo ingreso,Estadística,65.0,74.1,123.0,4.0,Beca parcial,Moodle,1.0,No,2025-09-14,POL-SEG-01 sin autorización de uso analítico
+EP-001750,2026-01-10,Sistemas,Virtual,Traslado,Física I,59.2,78.4,77.0,0.0,Sin beca,SIGA,1.0,No,2026-01-15,POL-SEG-01 sin autorización de uso analítico
+EP-003449,2026-05-01,Computación,Por encuentros,Nuevo ingreso,Bases de datos,77.1,76.8,83.0,0.0,Sin beca,Moodle,0.0,,2026-05-01,POL-SEG-01 sin autorización de uso analítico
+EP-001993,2026-02-15,Telecomunicaciones,Virtual,Nuevo ingreso,Física I,80.7,63.8,95.0,0.0,Sin beca,Archivo CSV,0.0,,2026-02-20,POL-SEG-01 sin autorización de uso analítico
+EP-004938,2025-09-12,Industrial,Por encuentros,Continuidad,Física I,64.3,75.0,75.0,1.0,Sin beca,Archivo CSV,1.0,No,2025-09-17,POL-SEG-01 sin autorización de uso analítico
+EP-006988,2025-05-22,Civil,Virtual,Continuidad,Estadística,60.4,83.7,110.0,1.0,Beca completa,Bienestar,1.0,No,2025-05-26,POL-SEG-01 sin autorización de uso analítico
+EP-004197,2026-01-16,Sistemas,Por encuentros,Continuidad,Programación I,59.5,61.5,64.0,0.0,Sin beca,SIGA,0.0,No,2026-01-19,POL-SEG-01 sin autorización de uso analítico
+EP-001448,2025-08-12,Telecomunicaciones,Por encuentros,Nuevo ingreso,Programación I,52.2,68.1,15.0,2.0,Sin beca,Moodle,1.0,No,2025-08-14,POL-SEG-01 sin autorización de uso analítico
+EP-000059,2026-05-21,Sistemas,,Nuevo ingreso,Programación I,95.7,89.1,105.0,0.0,Sin beca,Moodle,0.0,No,2026-05-24,POL-SEG-01 sin autorización de uso analítico
+EP-002719,2025-08-09,Sistemas,Virtual,Traslado,Programación I,81.4,67.1,88.0,0.0,Tutoría académica,SIGA,0.0,No,2025-08-09,POL-SEG-01 sin autorización de uso analítico
+EP-009620,2026-01-24,Sistemas,Por encuentros,Reingreso,Matemática I,68.3,73.7,48.0,2.0,Sin beca,SIGA,1.0,No,2026-01-27,POL-SEG-01 sin autorización de uso analítico
+EP-001271,2025-07-01,Industrial,Virtual,Reingreso,Bases de datos,53.0,93.2,72.0,1.0,Beca parcial,SIGA,1.0,No,2025-07-03,POL-SEG-01 sin autorización de uso analítico
+EP-008512,2025-10-09,Computación,Virtual,Continuidad,Programación I,65.8,74.5,77.0,3.0,Sin beca,SIGA,1.0,No,2025-10-10,POL-SEG-01 sin autorización de uso analítico
+EP-001917,2026-04-28,Computación,,Nuevo ingreso,Estadística,73.6,88.5,69.0,1.0,Beca completa,Moodle,0.0,No,2026-05-03,POL-SEG-01 sin autorización de uso analítico
+EP-008702,2025-10-27,Computación,Por encuentros,Traslado,Matemática I,66.1,59.1,40.0,4.0,Beca parcial,Moodle,1.0,No,2025-12-07,POL-SEG-01 sin autorización de uso analítico
+EP-002278,2025-02-23,Civil,Por encuentros,Continuidad,Programación I,87.0,81.0,104.0,0.0,Sin beca,SIGA,0.0,No,2025-02-26,POL-SEG-01 sin autorización de uso analítico
+EP-004042,2025-05-19,Sistemas,Presencial,Continuidad,Estadística,49.7,,8.0,5.0,Sin beca,SIGA,1.0,No,2025-05-21,POL-SEG-01 sin autorización de uso analítico
+EP-003192,2026-02-15,Computación,Virtual,Continuidad,Estadística,67.2,74.3,88.0,2.0,Sin beca,Archivo CSV,0.0,No,2026-02-16,POL-SEG-01 sin autorización de uso analítico
+EP-005996,2025-12-05,Telecomunicaciones,Por encuentros,Continuidad,Programación I,82.0,66.9,62.0,0.0,Tutoría académica,Moodle,0.0,No,2025-12-05,POL-SEG-01 sin autorización de uso analítico
+EP-008538,2025-10-11,Industrial,Por encuentros,Nuevo ingreso,Matemática I,77.5,83.0,85.0,1.0,Beca parcial,SIGA,0.0,No,2025-11-12,POL-SEG-01 sin autorización de uso analítico
+EP-000787,2026-04-08,Civil,Presencial,Nuevo ingreso,Programación I,58.6,81.8,3.0,1.0,Tutoría académica,SIGA,1.0,No,2026-05-13,POL-SEG-01 sin autorización de uso analítico
+EP-004812,2026-05-20,Industrial,Virtual,Continuidad,Estadística,77.6,79.3,93.0,0.0,Beca completa,Moodle,0.0,No,2026-05-24,POL-SEG-01 sin autorización de uso analítico
+EP-009101,2025-11-12,Industrial,Virtual,,Bases de datos,67.0,83.5,37.0,1.0,Tutoría académica,SIGA,,No,2025-11-13,POL-SEG-01 sin autorización de uso analítico
+EP-003180,2025-02-02,Telecomunicaciones,Por encuentros,Nuevo ingreso,Programación I,74.7,89.9,70.0,0.0,Sin beca,SIGA,1.0,No,2025-02-06,POL-SEG-01 sin autorización de uso analítico
+EP-002800,2025-03-15,Industrial,Presencial,Continuidad,Bases de datos,88.0,98.9,103.0,0.0,Beca parcial,Moodle,0.0,,2025-03-18,POL-SEG-01 sin autorización de uso analítico
+EP-007795,2025-04-08,Sistemas,Virtual,Nuevo ingreso,Bases de datos,70.0,70.3,99.0,2.0,Beca completa,Archivo CSV,1.0,No,2025-04-10,POL-SEG-01 sin autorización de uso analítico
+EP-002763,2025-01-19,Industrial,Virtual,Traslado,Física I,86.9,87.1,108.0,0.0,Sin beca,Moodle,0.0,No,2025-01-19,POL-SEG-01 sin autorización de uso analítico
+EP-006533,2026-05-01,Sistemas,Virtual,Continuidad,Matemática I,75.8,59.3,82.0,0.0,Sin beca,SIGA,1.0,No,2026-05-05,POL-SEG-01 sin autorización de uso analítico
+EP-000063,2025-05-06,Telecomunicaciones,Presencial,Traslado,Bases de datos,70.1,92.3,83.0,1.0,Beca parcial,SIGA,1.0,No,2025-05-08,POL-SEG-01 sin autorización de uso analítico
+EP-008197,2025-06-08,Industrial,Presencial,Reingreso,Bases de datos,63.6,70.3,87.0,0.0,Sin beca,Archivo CSV,1.0,No,2025-06-10,POL-SEG-01 sin autorización de uso analítico
+EP-009633,2025-05-23,Sistemas,Por encuentros,Traslado,Estadística,88.3,92.3,87.0,0.0,Beca completa,Archivo CSV,0.0,No,2025-05-24,POL-SEG-01 sin autorización de uso analítico
+EP-003731,2025-05-23,Computación,Presencial,Continuidad,Física I,65.8,69.8,72.0,1.0,Sin beca,SIGA,1.0,No,2025-05-25,POL-SEG-01 sin autorización de uso analítico
+EP-000937,2026-06-19,Telecomunicaciones,Presencial,Reingreso,Estadística,80.2,74.1,67.0,0.0,Beca parcial,SIGA,1.0,,2026-06-24,POL-SEG-01 sin autorización de uso analítico
+EP-002671,2026-02-23,Computación,Presencial,Continuidad,Bases de datos,74.4,90.8,97.0,0.0,Sin beca,SIGA,0.0,,2026-02-25,POL-SEG-01 sin autorización de uso analítico
+EP-003898,2025-04-03,Sistemas,Presencial,Reingreso,Matemática I,65.5,60.4,74.0,1.0,Sin beca,SIGA,0.0,No,2025-04-04,POL-SEG-01 sin autorización de uso analítico
+EP-001837,2025-05-11,Telecomunicaciones,Por encuentros,Continuidad,Matemática I,74.9,77.8,34.0,2.0,Tutoría académica,SIGA,0.0,No,2025-05-14,POL-SEG-01 sin autorización de uso analítico
+EP-009613,2025-09-25,Industrial,Virtual,Traslado,Estadística,72.2,73.9,96.0,,Beca completa,SIGA,0.0,No,2025-09-26,POL-SEG-01 sin autorización de uso analítico
+EP-008888,2026-02-23,Sistemas,Por encuentros,Continuidad,Estadística,66.5,85.8,57.0,3.0,Beca parcial,Bienestar,1.0,No,2026-02-23,POL-SEG-01 sin autorización de uso analítico
+EP-007696,2025-04-10,Sistemas,Por encuentros,Reingreso,Programación I,81.9,94.1,102.0,3.0,Sin beca,Moodle,0.0,No,2025-04-15,POL-SEG-01 sin autorización de uso analítico
+EP-005938,2025-11-05,Computación,Por encuentros,Nuevo ingreso,Estadística,67.1,76.4,90.0,0.0,Sin beca,Moodle,0.0,No,2025-11-07,POL-SEG-01 sin autorización de uso analítico
+EP-006760,2025-10-02,Computación,Virtual,Nuevo ingreso,Física I,85.7,87.0,108.0,0.0,Sin beca,Archivo CSV,0.0,No,2025-10-06,POL-SEG-01 sin autorización de uso analítico
+EP-000316,2025-10-25,Sistemas,Por encuentros,Continuidad,Matemática I,86.6,,58.0,0.0,Beca parcial,Moodle,0.0,,2025-10-29,POL-SEG-01 sin autorización de uso analítico
+EP-007635,2026-01-13,Sistemas,Virtual,Reingreso,Bases de datos,78.1,63.0,102.0,2.0,Beca parcial,Moodle,1.0,No,2026-01-15,POL-SEG-01 sin autorización de uso analítico
+EP-001097,2025-05-23,Civil,Virtual,Continuidad,Programación I,80.8,78.9,119.0,0.0,Sin beca,Archivo CSV,0.0,,2025-05-24,POL-SEG-01 sin autorización de uso analítico
+EP-001995,2025-02-24,Computación,Virtual,Continuidad,Programación I,62.9,62.1,61.0,2.0,Beca completa,Moodle,1.0,No,2025-02-24,POL-SEG-01 sin autorización de uso analítico
+EP-006640,2026-02-17,Telecomunicaciones,Por encuentros,Continuidad,Estadística,60.3,70.8,64.0,2.0,Tutoría académica,Bienestar,1.0,,2026-02-20,POL-SEG-01 sin autorización de uso analítico
+EP-005921,2025-01-08,Civil,Virtual,Continuidad,Programación I,67.8,78.2,96.0,1.0,Tutoría académica,Moodle,0.0,No,2025-01-10,POL-SEG-01 sin autorización de uso analítico
+EP-000300,2025-10-13,Industrial,Por encuentros,Continuidad,Estadística,81.2,,94.0,7.0,Beca parcial,SIGA,0.0,No,2025-10-17,POL-SEG-01 sin autorización de uso analítico
+EP-003576,2025-04-06,Sistemas,Virtual,Nuevo ingreso,Matemática I,74.1,97.6,154.0,0.0,Sin beca,Moodle,0.0,No,2025-05-07,POL-SEG-01 sin autorización de uso analítico
+EP-004130,2025-08-04,Industrial,Por encuentros,Nuevo ingreso,Estadística,66.6,77.0,26.0,2.0,Sin beca,Moodle,0.0,No,2025-08-05,POL-SEG-01 sin autorización de uso analítico
+EP-007101,2025-08-20,Sistemas,Virtual,Continuidad,Física I,55.7,61.4,58.0,2.0,Beca parcial,Bienestar,1.0,No,2025-08-25,POL-SEG-01 sin autorización de uso analítico
+EP-009140,2026-05-26,Computación,Virtual,Nuevo ingreso,Programación I,72.4,59.4,,0.0,Sin beca,Bienestar,0.0,,2026-05-30,POL-SEG-01 sin autorización de uso analítico
+EP-001476,2025-08-23,Telecomunicaciones,Por encuentros,Nuevo ingreso,Matemática I,87.8,81.3,86.0,0.0,Sin beca,Archivo CSV,0.0,,2025-08-28,POL-SEG-01 sin autorización de uso analítico
+EP-005925,2025-12-15,Sistemas,Por encuentros,Nuevo ingreso,Estadística,61.2,55.5,24.0,5.0,Beca parcial,Moodle,1.0,No,2025-12-20,POL-SEG-01 sin autorización de uso analítico
+EP-003448,2025-03-17,Industrial,Por encuentros,Nuevo ingreso,Bases de datos,68.1,84.2,44.0,0.0,Sin beca,SIGA,0.0,No,2025-03-19,POL-SEG-01 sin autorización de uso analítico
+EP-009514,2025-04-17,Civil,Virtual,Continuidad,Física I,72.2,81.0,63.0,1.0,Tutoría académica,SIGA,0.0,,2025-04-17,POL-SEG-01 sin autorización de uso analítico
+EP-000150,2025-01-02,Computación,Presencial,Nuevo ingreso,Programación I,95.4,87.8,148.0,0.0,Tutoría académica,SIGA,0.0,No,2025-01-03,POL-SEG-01 sin autorización de uso analítico
+EP-004875,2025-08-21,Sistemas,Virtual,Nuevo ingreso,Programación I,55.0,58.1,78.0,1.0,Sin beca,Bienestar,1.0,No,2025-09-03,POL-SEG-01 sin autorización de uso analítico
+EP-003805,2025-03-13,Industrial,Virtual,Continuidad, Física I ,70.9,76.1,122.0,3.0,Beca completa,Bienestar,0.0,No,2025-03-13,POL-SEG-01 sin autorización de uso analítico
+EP-002160,2025-02-06,Civil,Virtual,Nuevo ingreso,Programación I,49.7,54.0,15.0,5.0,Tutoría académica,SIGA,1.0,No,2025-02-11,POL-SEG-01 sin autorización de uso analítico
+EP-004270,2026-02-21,Sistemas,Por encuentros,Nuevo ingreso,Programación I,75.8,78.7,128.0,1.0,Beca parcial,Moodle,0.0,No,2026-02-22,POL-SEG-01 sin autorización de uso analítico
+EP-009471,2025-12-22,Civil,Presencial,Continuidad,Estadística,81.1,61.3,59.0,1.0,Sin beca,SIGA,0.0,No,2025-12-27,POL-SEG-01 sin autorización de uso analítico
+EP-005898,2026-01-20,Computación,Por encuentros,Continuidad,Física I,64.9,75.2,42.0,2.0,Sin beca,SIGA,0.0,No,2026-01-22,POL-SEG-01 sin autorización de uso analítico
+EP-002583,2025-03-15,Telecomunicaciones,Por encuentros,Reingreso,Estadística,,91.4,69.0,2.0,Sin beca,Bienestar,0.0,No,2025-03-18,POL-SEG-01 sin autorización de uso analítico
+EP-002231,2025-09-16,Telecomunicaciones,Por encuentros,Nuevo ingreso,Bases de datos,71.3,94.1,91.0,1.0,Sin beca,SIGA,0.0,,2025-09-17,POL-SEG-01 sin autorización de uso analítico
+EP-007681,2025-11-15,Sistemas,Presencial,Continuidad,Física I,72.0,80.4,76.0,1.0,Beca completa,Bienestar,0.0,No,2025-11-20,POL-SEG-01 sin autorización de uso analítico
+EP-008148,2026-04-07,Industrial,Virtual,Reingreso,Matemática I,57.7,52.4,48.0,1.0,Beca parcial,Moodle,1.0,No,2026-04-09,POL-SEG-01 sin autorización de uso analítico
+EP-005382,2026-01-11,Telecomunicaciones,Por encuentros,Reingreso,Física I,52.8,58.5,31.0,3.0,Beca parcial,SIGA,1.0,No,2026-01-14,POL-SEG-01 sin autorización de uso analítico
+EP-006454,2026-01-18,Industrial,Virtual,Continuidad,Estadística,59.1,62.1,73.0,0.0,Tutoría académica,Archivo CSV,0.0,No,2026-01-19,POL-SEG-01 sin autorización de uso analítico
+EP-008829,2025-08-18,Industrial,,Continuidad,Bases de datos,87.8,81.4,112.0,0.0,Sin beca,Bienestar,0.0,No,2025-08-23,POL-SEG-01 sin autorización de uso analítico
+EP-008370,2025-10-08,Telecomunicaciones,Por encuentros,Continuidad,Estadística,67.1,76.1,75.0,0.0,Sin beca,Archivo CSV,1.0,No,2025-10-13,POL-SEG-01 sin autorización de uso analítico
+EP-000466,2025-04-17,Sistemas,Por encuentros,Nuevo ingreso,Matemática I,86.5,79.3,70.0,2.0,Sin beca,SIGA,1.0,No,2025-04-18,POL-SEG-01 sin autorización de uso analítico
+EP-007595,2025-11-01,Civil,Por encuentros,Nuevo ingreso,física i,,81.0,77.0,-1.0,Sin beca,SIGA,1.0,No,2025-11-06,POL-SEG-01 sin autorización de uso analítico
+EP-008523,2026-02-01,Civil,Presencial,Continuidad,Matemática I,57.7,80.6,51.0,,Tutoría académica,SIGA,0.0,No,2026-02-01,POL-SEG-01 sin autorización de uso analítico
+EP-006817,2025-01-06,Industrial,Virtual,Continuidad,Física I,89.9,82.8,127.0,0.0,Beca completa,Archivo CSV,0.0,No,2025-01-10,POL-SEG-01 sin autorización de uso analítico
+EP-000950,2026-03-23,Computación,Por encuentros,Nuevo ingreso,Bases de datos,61.0,82.7,34.0,4.0,Sin beca,SIGA,1.0,No,2026-03-24,POL-SEG-01 sin autorización de uso analítico
+EP-009632,2025-10-19,Computación,Presencial,Traslado,Bases de datos,78.2,99.2,100.0,0.0,Sin beca,SIGA,1.0,No,2025-11-30,POL-SEG-01 sin autorización de uso analítico
+EP-006868,2025-01-17,Civil,Virtual,Nuevo ingreso,Matemática I,59.9,70.8,63.0,3.0,Beca completa,SIGA,1.0,,2025-01-19,POL-SEG-01 sin autorización de uso analítico
+EP-004904,2026-05-12,Civil,Por encuentros,Nuevo ingreso,Estadística,58.7,72.9,51.0,4.0,Sin beca,Moodle,1.0,No,2026-05-17,POL-SEG-01 sin autorización de uso analítico
+EP-004099,2025-03-21,Industrial,Virtual,Nuevo ingreso,Matemática I,66.4,61.0,34.0,0.0,Sin beca,SIGA,1.0,No,2025-03-24,POL-SEG-01 sin autorización de uso analítico
+EP-007165,2025-12-16,Civil,Virtual,Continuidad,Bases de datos,78.8,150.0,94.0,0.0,Beca completa,SIGA,0.0,No,2025-12-21,POL-SEG-01 sin autorización de uso analítico
+EP-005976,2025-06-19,Industrial,Por encuentros,Continuidad,Programación I,81.3,94.9,138.0,0.0,Sin beca,Moodle,0.0,,2025-06-23,POL-SEG-01 sin autorización de uso analítico
+EP-001099,2025-06-21,Industrial,Virtual,Reingreso,Estadística,62.4,74.5,88.0,2.0,Sin beca,Moodle,1.0,No,2025-06-25,POL-SEG-01 sin autorización de uso analítico
+EP-001421,2025-08-01,Sistemas,Por encuentros,Continuidad,Matemática I,49.8,59.7,49.0,1.0,Sin beca,Archivo CSV,1.0,No,2025-08-06,POL-SEG-01 sin autorización de uso analítico
+EP-007473,2026-03-17,Computación,Presencial,Continuidad,Matemática I,77.4,95.4,74.0,0.0,Sin beca,SIGA,0.0,No,2026-03-19,POL-SEG-01 sin autorización de uso analítico
+EP-009464,2025-04-27,Industrial,Por encuentros,Continuidad,Programación I,71.7,75.3,70.0,1.0,Sin beca,Moodle,0.0,No,2025-04-29,POL-SEG-01 sin autorización de uso analítico
+EP-007578,2026-05-09,Industrial,Presencial,Continuidad,Física I,96.0,92.3,108.0,0.0,Beca parcial,SIGA,0.0,No,2026-05-14,POL-SEG-01 sin autorización de uso analítico
+EP-004277,2025-06-16,Telecomunicaciones,Virtual,Reingreso,Estadística,63.1,78.4,65.0,4.0,Beca completa,Moodle,0.0,No,2025-06-16,POL-SEG-01 sin autorización de uso analítico
+EP-004060,2025-01-18,Civil,Por encuentros,Continuidad,Matemática I,83.1,91.0,78.0,0.0,Sin beca,Archivo CSV,0.0,,2025-01-23,POL-SEG-01 sin autorización de uso analítico
+EP-006792,2026-02-17,Sistemas,Presencial,Traslado,Bases de datos,73.7,80.6,75.0,2.0,Sin beca,SIGA,1.0,No,2026-02-19,POL-SEG-01 sin autorización de uso analítico
+EP-003639,2026-03-24,Industrial,Presencial,Nuevo ingreso,Estadística,75.6,85.7,88.0,0.0,Sin beca,SIGA,1.0,No,2026-03-28,POL-SEG-01 sin autorización de uso analítico
+EP-000613,2025-08-11,Industrial,Presencial,Nuevo ingreso,Bases de datos,73.6,76.9,104.0,1.0,Tutoría académica,Archivo CSV,0.0,No,2025-09-01,POL-SEG-01 sin autorización de uso analítico
+EP-001450,2025-01-11,Industrial,Virtual,Reingreso,Física I,79.3,84.3,112.0,0.0,Sin beca,Moodle,1.0,,2025-01-24,POL-SEG-01 sin autorización de uso analítico
+EP-008947,2026-01-08,Sistemas,Virtual,Continuidad,Física I,63.4,65.7,96.0,0.0,Tutoría académica,SIGA,1.0,No,2026-01-11,POL-SEG-01 sin autorización de uso analítico
+EP-003047,2025-06-22,Telecomunicaciones,Por encuentros,Continuidad,Física I,84.8,81.1,240.0,0.0,Sin beca,Moodle,0.0,No,2025-06-24,POL-SEG-01 sin autorización de uso analítico
+EP-002651,2026-05-11,Telecomunicaciones,Por encuentros,Continuidad,Bases de datos,78.7,89.9,76.0,1.0,Sin beca,Archivo CSV,0.0,No,2026-05-14,POL-SEG-01 sin autorización de uso analítico
+EP-004058,2025-10-20,Telecomunicaciones,Por encuentros,Nuevo ingreso,Matemática I,62.1,68.2,65.0,2.0,Sin beca,Archivo CSV,1.0,No,2025-10-21,POL-SEG-01 sin autorización de uso analítico
+EP-003333,2025-10-17,Computación,,Continuidad,Matemática I,66.8,79.5,69.0,2.0,Tutoría académica,SIGA,0.0,No,2025-10-18,POL-SEG-01 sin autorización de uso analítico
+EP-007657,2025-06-26,Telecomunicaciones,Presencial,Reingreso,Bases de datos,58.8,58.2,12.0,3.0,Tutoría académica,Archivo CSV,1.0,No,2025-06-27,POL-SEG-01 sin autorización de uso analítico
+EP-008466,2025-05-19,Sistemas,Presencial,Continuidad,Bases de datos,74.5,83.0,21.0,1.0,Beca parcial,SIGA,0.0,No,2025-05-19,POL-SEG-01 sin autorización de uso analítico
+EP-004318,2026-05-24,Sistemas,Por encuentros,Reingreso,Programación I,72.6,72.5,97.0,0.0,Beca completa,SIGA,0.0,No,2026-05-29,POL-SEG-01 sin autorización de uso analítico
+EP-003934,2025-03-14,Industrial,,Continuidad,Bases de datos,74.2,89.4,62.0,3.0,Beca completa,SIGA,0.0,No,2025-03-19,POL-SEG-01 sin autorización de uso analítico
+EP-006500,2026-04-08,Civil,Presencial,Nuevo ingreso,Física I,70.5,92.3,62.0,3.0,Beca completa,Archivo CSV,0.0,No,2026-04-12,POL-SEG-01 sin autorización de uso analítico
+EP-006757,2025-12-19,Civil,Virtual,Nuevo ingreso,Bases de datos,60.4,68.5,100.0,1.0,Beca parcial,SIGA,1.0,No,2026-01-11,POL-SEG-01 sin autorización de uso analítico
+EP-006717,2025-12-04,Civil,Virtual,Nuevo ingreso,Estadística,56.0,66.5,30.0,5.0,Sin beca,Archivo CSV,1.0,No,2025-12-07,POL-SEG-01 sin autorización de uso analítico
+EP-007524,2025-08-17,Civil,Por encuentros,Nuevo ingreso,Física I,61.7,72.3,2.0,4.0,Sin beca,SIGA,1.0,No,2025-09-05,POL-SEG-01 sin autorización de uso analítico
+EP-001153,2025-01-07,Industrial,Por encuentros,Nuevo ingreso,Programación I,80.6,82.6,102.0,1.0,Sin beca,Archivo CSV,0.0,No,2025-01-11,POL-SEG-01 sin autorización de uso analítico
+EP-005917,2025-12-04,Telecomunicaciones,Virtual,Nuevo ingreso,Estadística,66.7,,84.0,3.0,Beca completa,SIGA,1.0,No,2025-12-04,POL-SEG-01 sin autorización de uso analítico
+EP-005511,2026-03-19,Telecomunicaciones,Virtual,Continuidad,Física I,65.5,80.2,74.0,0.0,Sin beca,Archivo CSV,0.0,No,2026-03-20,POL-SEG-01 sin autorización de uso analítico
+EP-006664,2026-01-02,Computación,Por encuentros,Continuidad,Matemática I,69.0,78.8,41.0,2.0,Sin beca,SIGA,0.0,No,2026-01-04,POL-SEG-01 sin autorización de uso analítico
+EP-002259,2025-02-04,Computación,Virtual,Traslado,Física I,67.4,69.1,62.0,0.0,Sin beca,Moodle,1.0,No,2025-02-08,POL-SEG-01 sin autorización de uso analítico
+EP-009634,2026-01-13,Civil,Virtual,Nuevo ingreso,Matemática I,53.5,85.9,52.0,2.0,Beca completa,Moodle,0.0,,2026-01-13,POL-SEG-01 sin autorización de uso analítico
+EP-005902,2026-06-13,Industrial,Por encuentros,Nuevo ingreso,Estadística,96.0,98.9,109.0,0.0,Beca completa,SIGA,0.0,No,2026-06-16,POL-SEG-01 sin autorización de uso analítico
+EP-001297,2026-02-13,Sistemas,Presencial,Continuidad,Matemática I,85.4,93.6,93.0,1.0,Sin beca,SIGA,0.0,No,2026-02-15,POL-SEG-01 sin autorización de uso analítico
+EP-002967,2026-05-13,Industrial,Por encuentros,Continuidad,Estadística,90.3,76.9,106.0,5.0,Sin beca,Archivo CSV,0.0,No,2026-05-17,POL-SEG-01 sin autorización de uso analítico
+EP-003157,2026-04-18,Industrial,Presencial,Reingreso,Física I,76.7,88.1,117.0,0.0,Sin beca,SIGA,1.0,No,2026-04-19,POL-SEG-01 sin autorización de uso analítico
+EP-004359,2025-07-26,Sistemas,Virtual,Continuidad,Física I,67.5,90.0,78.0,0.0,Beca completa,Bienestar,0.0,,2025-07-30,POL-SEG-01 sin autorización de uso analítico
+EP-009497,2025-03-04,Sistemas,Virtual,Continuidad,Matemática I,74.2,93.3,116.0,0.0,Sin beca,Archivo CSV,0.0,No,2025-03-05,POL-SEG-01 sin autorización de uso analítico
+EP-005328,2025-04-10,Telecomunicaciones,Virtual,Nuevo ingreso,Matemática I,93.9,100.0,129.0,0.0,Sin beca,SIGA,0.0,No,2025-04-12,POL-SEG-01 sin autorización de uso analítico
+EP-005470,2026-02-04,Civil,Virtual,Continuidad,Bases de datos,,75.5,95.0,0.0,Sin beca,Bienestar,0.0,,2026-02-08,POL-SEG-01 sin autorización de uso analítico
+EP-004633,2026-01-02,Civil,Presencial,Continuidad,Matemática I,68.9,89.2,88.0,3.0,Sin beca,SIGA,0.0,No,2026-01-06,POL-SEG-01 sin autorización de uso analítico
+EP-001955,2025-02-01,Computación,Por encuentros,Continuidad,Física I,73.9,78.9,116.0,0.0,Sin beca,SIGA,0.0,No,2025-02-06,POL-SEG-01 sin autorización de uso analítico
+EP-000427,2026-06-15,Computación,Virtual,Nuevo ingreso,Programación I,78.0,100.0,124.0,1.0,Sin beca,SIGA,0.0,,2026-06-20,POL-SEG-01 sin autorización de uso analítico
+EP-001638,2025-10-07,Telecomunicaciones,Por encuentros,Reingreso,Matemática I,63.9,110.0,68.0,1.0,Beca completa,Moodle,0.0,No,2025-10-08,POL-SEG-01 sin autorización de uso analítico
+EP-006562,2025-12-09,Industrial,Por encuentros,Nuevo ingreso,Bases de datos,83.4,85.7,95.0,,Beca parcial,Bienestar,0.0,No,2025-12-18,POL-SEG-01 sin autorización de uso analítico
+EP-004442,2025-02-28,Sistemas,Presencial,Continuidad,Matemática I,79.6,-3.0,64.0,1.0,Tutoría académica,Moodle,0.0,No,2025-03-03,POL-SEG-01 sin autorización de uso analítico
+EP-003926,2026-06-06,Computación,Por encuentros,Traslado,Programación I,78.6,95.6,126.0,0.0,Sin beca,Bienestar,0.0,No,2026-06-10,POL-SEG-01 sin autorización de uso analítico
+EP-003398,2025-05-28,Civil,Por encuentros,Continuidad,Física I,64.3,76.3,70.0,2.0,Sin beca,SIGA,1.0,No,2025-06-01,POL-SEG-01 sin autorización de uso analítico
+EP-000969,2025-08-10,Civil,,Reingreso,Programación I,63.4,69.5,76.0,0.0,Beca parcial,Moodle,1.0,No,2025-08-13,POL-SEG-01 sin autorización de uso analítico
+EP-005005,2026-04-28,Telecomunicaciones,Por encuentros,Nuevo ingreso,Física I,86.5,84.2,95.0,0.0,Beca parcial,Moodle,0.0,No,2026-05-03,POL-SEG-01 sin autorización de uso analítico
+EP-000759,2025-08-27,Civil,Presencial,Continuidad,Estadística,74.9,57.9,50.0,4.0,Tutoría académica,Moodle,1.0,,2025-08-31,POL-SEG-01 sin autorización de uso analítico
+EP-004853,2025-02-03,Telecomunicaciones,,Nuevo ingreso,Programación I,72.5,92.2,48.0,2.0,Sin beca,SIGA,0.0,No,2025-02-04,POL-SEG-01 sin autorización de uso analítico
+EP-004149,2025-03-27,Civil,Virtual,Continuidad,Física I,63.6,72.1,94.0,1.0,Tutoría académica,Moodle,1.0,,2025-03-27,POL-SEG-01 sin autorización de uso analítico
+EP-006008,2025-03-23,Sistemas,Virtual,Continuidad,Física I,65.7,77.8,92.0,0.0,Beca completa,SIGA,0.0,No,2025-03-24,POL-SEG-01 sin autorización de uso analítico
+EP-002659,2026-03-05,Civil,Virtual,Continuidad,Matemática I,76.3,72.1,58.0,1.0,Tutoría académica,Moodle,0.0,No,2026-03-10,POL-SEG-01 sin autorización de uso analítico
+EP-007773,2025-07-24,Telecomunicaciones,Virtual,Continuidad,Estadística,82.7,84.3,101.0,1.0,Tutoría académica,SIGA,,No,2025-07-26,POL-SEG-01 sin autorización de uso analítico
+EP-006815,2025-08-21,Telecomunicaciones,Virtual,Continuidad,Estadística,66.9,79.8,55.0,2.0,Sin beca,SIGA,1.0,No,2025-09-02,POL-SEG-01 sin autorización de uso analítico
+EP-006009,2026-03-26,Telecomunicaciones,Presencial,Traslado,Programación I,67.8,70.2,68.0,1.0,Sin beca,SIGA,0.0,No,2026-03-29,POL-SEG-01 sin autorización de uso analítico
+EP-005452,2025-08-26,Sistemas,Virtual,Nuevo ingreso,Matemática I,59.1,70.3,52.0,0.0,Sin beca,Moodle,0.0,No,2025-08-27,POL-SEG-01 sin autorización de uso analítico
+EP-002468,2025-02-11,Computación,Por encuentros,Reingreso,Matemática I,63.5,77.1,11.0,0.0,Sin beca,Bienestar,1.0,No,2025-02-13,POL-SEG-01 sin autorización de uso analítico
+EP-001003,2026-01-01,Industrial,Por encuentros,Continuidad,Matemática I,70.2,80.4,66.0,1.0,Beca parcial,SIGA,0.0,No,2026-01-05,POL-SEG-01 sin autorización de uso analítico
+EP-007427,2025-02-06,Computación,Presencial,Traslado,Programación I,81.5,79.7,95.0,1.0,Sin beca,SIGA,0.0,,2025-02-08,POL-SEG-01 sin autorización de uso analítico
+EP-003489,2025-09-01,Industrial,Por encuentros,Continuidad,Programación I,78.1,86.7,80.0,1.0,Tutoría académica,Archivo CSV,0.0,No,2025-09-24,POL-SEG-01 sin autorización de uso analítico
+EP-007206,2026-04-12,Sistemas,Presencial,Continuidad,Física I,75.5,89.9,80.0,1.0,Beca parcial,Moodle,0.0,No,2026-04-12,POL-SEG-01 sin autorización de uso analítico
+EP-000784,2025-04-07,Telecomunicaciones,Presencial,Nuevo ingreso,Física I,78.9,75.9,55.0,0.0,Sin beca,SIGA,0.0,No,2025-04-08,POL-SEG-01 sin autorización de uso analítico
+EP-004218,2026-03-07,Civil,Presencial,Continuidad,Bases de datos,96.0,100.0,166.0,0.0,Tutoría académica,Archivo CSV,0.0,No,2026-03-10,POL-SEG-01 sin autorización de uso analítico
+EP-008819,2025-10-09,Sistemas,Presencial,Traslado,Estadística,81.6,87.6,40.0,1.0,Sin beca,Archivo CSV,1.0,No,2025-10-09,POL-SEG-01 sin autorización de uso analítico
+EP-001231,2025-07-20,Telecomunicaciones,Presencial,Continuidad,Estadística,76.3,82.0,64.0,1.0,Sin beca,Moodle,0.0,,2025-07-23,POL-SEG-01 sin autorización de uso analítico
+EP-004841,2025-04-19,Sistemas,Presencial,Nuevo ingreso,Física I,58.6,62.9,44.0,1.0,Beca parcial,SIGA,1.0,No,2025-04-23,POL-SEG-01 sin autorización de uso analítico
+EP-000329,2025-11-10,Civil,Por encuentros,Nuevo ingreso,Programación I,60.6,67.7,41.0,3.0,Sin beca,Archivo CSV,0.0,No,2025-11-15,POL-SEG-01 sin autorización de uso analítico
+EP-003513,2025-04-12,Civil,,Continuidad,Programación I,67.3,69.9,64.0,1.0,Sin beca,Archivo CSV,1.0,No,2025-04-13,POL-SEG-01 sin autorización de uso analítico
+EP-009161,2025-09-07,Sistemas,Presencial,Continuidad,Bases de datos,68.8,70.0,7.0,1.0,Beca parcial,SIGA,0.0,No,2025-09-11,POL-SEG-01 sin autorización de uso analítico
+EP-001074,2025-05-28,Industrial,Por encuentros,Continuidad,Programación I,53.5,67.3,40.0,2.0,Tutoría académica,SIGA,1.0,,2025-06-02,POL-SEG-01 sin autorización de uso analítico
+EP-007099,2025-10-12,Sistemas,Presencial,Nuevo ingreso,Bases de datos,62.9,79.6,41.0,1.0,Beca parcial,Bienestar,1.0,No,2025-10-15,POL-SEG-01 sin autorización de uso analítico
+EP-008036,2025-02-17,Sistemas,Virtual,Continuidad,Estadística,81.6,88.3,140.0,0.0,Tutoría académica,Archivo CSV,0.0,,2025-02-18,POL-SEG-01 sin autorización de uso analítico
+EP-008494,2026-03-05,Civil,Presencial,Reingreso,Estadística,66.1,61.5,52.0,1.0,Sin beca,SIGA,0.0,,2026-03-05,POL-SEG-01 sin autorización de uso analítico
+EP-002556,2026-01-03,Sistemas,Presencial,Continuidad,Estadística,76.4,80.5,93.0,1.0,Sin beca,SIGA,0.0,No,2026-01-03,POL-SEG-01 sin autorización de uso analítico
+EP-002028,2026-01-12,Civil,Por encuentros,Continuidad,Física I,,64.3,74.0,1.0,Tutoría académica,SIGA,0.0,No,2026-01-12,POL-SEG-01 sin autorización de uso analítico
+EP-000381,2026-03-23,Sistemas,Virtual,Nuevo ingreso,Matemática I,79.0,66.1,92.0,0.0,Beca parcial,Archivo CSV,0.0,No,2026-03-23,POL-SEG-01 sin autorización de uso analítico
+EP-007887,2025-10-10,Civil,Presencial,Continuidad,Matemática I,55.5,,3.0,1.0,Tutoría académica,Moodle,0.0,No,2025-10-12,POL-SEG-01 sin autorización de uso analítico
+EP-004835,2026-06-23,Industrial,Presencial,Continuidad,Bases de datos,78.1,93.5,85.0,1.0,Sin beca,Bienestar,0.0,No,2026-06-28,POL-SEG-01 sin autorización de uso analítico
+EP-006544,2025-06-06,Civil,Presencial,Continuidad,Bases de datos,69.2,96.9,103.0,0.0,Sin beca,Bienestar,1.0,No,2025-06-10,POL-SEG-01 sin autorización de uso analítico
+EP-005685,2026-01-20,Industrial,Virtual,Reingreso,Estadística,76.8,69.7,92.0,0.0,Sin beca,Bienestar,0.0,No,2026-01-25,POL-SEG-01 sin autorización de uso analítico
+EP-008738,2025-01-03,Telecomunicaciones,Virtual,Continuidad,Programación I,74.1,54.2,100.0,1.0,Tutoría académica,Moodle,1.0,No,2025-01-04,POL-SEG-01 sin autorización de uso analítico
+EP-009794,2025-12-09,Computación,Virtual,Traslado,Bases de datos,57.4,77.4,41.0,0.0,Beca completa,SIGA,,No,2025-12-12,POL-SEG-01 sin autorización de uso analítico
+EP-003279,2025-02-08,Sistemas,Virtual,Nuevo ingreso,Física I,83.9,89.5,108.0,0.0,Beca parcial,Archivo CSV,1.0,No,2025-02-13,POL-SEG-01 sin autorización de uso analítico
+EP-007343,2026-04-23,Industrial,Por encuentros,Continuidad,Matemática I,81.1,80.5,146.0,0.0,Beca parcial,Bienestar,0.0,No,2026-04-26,POL-SEG-01 sin autorización de uso analítico
+EP-006306,2025-03-08,Computación,Presencial,,Física I,79.4,90.9,122.0,0.0,Beca parcial,Moodle,0.0,No,2025-03-10,POL-SEG-01 sin autorización de uso analítico
+EP-005534,2026-01-11,Civil,Virtual,Continuidad,Bases de datos,80.0,74.0,147.0,0.0,Sin beca,Bienestar,0.0,No,2026-01-11,POL-SEG-01 sin autorización de uso analítico
+EP-008145,2025-07-18,Sistemas,Presencial,Nuevo ingreso,Estadística,65.5,150.0,70.0,2.0,Sin beca,Moodle,1.0,No,2025-07-23,POL-SEG-01 sin autorización de uso analítico
+EP-003110,2026-05-27,Computación,Por encuentros,Nuevo ingreso,Física I,74.5,83.0,91.0,1.0,Beca completa,SIGA,1.0,No,2026-05-29,POL-SEG-01 sin autorización de uso analítico
+EP-009756,2025-03-01,Civil,Por encuentros,Continuidad,Estadística,74.9,89.1,40.0,1.0,Tutoría académica,Moodle,1.0,No,2025-03-04,POL-SEG-01 sin autorización de uso analítico
+EP-002210,2026-04-12,Industrial,Por encuentros,Continuidad,Programación I,71.7,81.5,70.0,5.0,Sin beca,Moodle,1.0,No,2026-04-14,POL-SEG-01 sin autorización de uso analítico
+EP-008633,2025-02-15,Civil,Presencial,,Estadística,,53.4,,3.0,Sin beca,Archivo CSV,1.0,No,2025-02-20,POL-SEG-01 sin autorización de uso analítico
+EP-004191,2026-05-27,Industrial,Por encuentros,Traslado,Matemática I,66.7,67.9,48.0,0.0,Sin beca,SIGA,1.0,No,2026-05-27,POL-SEG-01 sin autorización de uso analítico
+EP-002770,2025-08-02,Telecomunicaciones,Por encuentros,Continuidad,Matemática I,82.4,76.7,79.0,0.0,Beca parcial,SIGA,0.0,No,2025-08-05,POL-SEG-01 sin autorización de uso analítico
+EP-004144,2026-06-11,Computación,Por encuentros,Nuevo ingreso,Matemática I,77.2,74.2,74.0,5.0,Beca parcial,Moodle,1.0,No,2026-06-15,POL-SEG-01 sin autorización de uso analítico
+EP-004727,2025-08-14,Industrial,Virtual,Nuevo ingreso,Estadística,92.8,97.6,158.0,0.0,Sin beca,Archivo CSV,0.0,No,2025-08-16,POL-SEG-01 sin autorización de uso analítico
