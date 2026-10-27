@@ -14,7 +14,7 @@ def crear_engine():
     url_directa = os.getenv("DB_URL")
     if url_directa:
         return create_engine(url_directa)
-    servidor = os.getenv("DB_SERVER", r"localhost\SQLEXPRESS")
+    servidor = os.getenv("DB_SERVER", r"Desktop-G3NSGKO\SQLEXPRESS")
     base = os.getenv("DB_NAME", "IntegradorVIII_URP")
     driver = os.getenv("DB_DRIVER", "ODBC Driver 17 for SQL Server")
     consulta = {"driver": driver, "TrustServerCertificate": "yes"}
