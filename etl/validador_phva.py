@@ -29,7 +29,7 @@ try:
     print(f"\n[OK] Dataset v0 cargado exitosamente desde: {ruta_dataset}")
 except FileNotFoundError:
     print(f"\n[ERROR] No se encontró el archivo en {ruta_dataset}. Verifique la ruta.")
-    exit()
+    # Si estás en un notebook y prefieres no salirte con exit(), puedes usar return o dejarlo así.
 
 # ==========================================
 # 2. INDICADORES ANTES (CICLO PHVA - PLANIFICAR)
@@ -98,7 +98,7 @@ if col_id in df_v1.columns:
 df_v1.to_csv('outputs/dw_permanencia_predictivo.csv', index=False)
 
 # ==========================================
-# 4. INDICADORES DESPUÉS (CICLO PHVA - VERIFICAR Y ACTUAR)
+# 4. INDICADORES DESPUÉS Y VISUALIZACIÓN TABULAR
 # ==========================================
 completitud_despues = ((df_v1.notnull().sum().sum()) / df_v1.size) * 100
 total_final = len(df_v1)
@@ -109,18 +109,21 @@ print(f"-> Tasa de Completitud final: {completitud_despues:.2f}%")
 print(f"-> Nivel de Seudonimización SHA-256: 100%")
 print(f"-> Decisión basada en evidencia: Dataset validado y exportado a outputs/.\n")
 
-# Mostrar Bitácora de Auditoría en la terminal de forma limpia
-print("===  BITÁCORA E INFORME DE AUDITORÍA ===")
+print("=== BITÁCORA E INFORME DE AUDITORÍA (TABLA DE CONTROL) ===")
+
+# Convertir la lista de incidencias en un DataFrame para mostrarlo ordenado en el Notebook
 if len(bitacora_incidencias) == 0:
     print("No se registraron incidencias en esta ejecución.")
 else:
-    for i, inc in enumerate(bitacora_incidencias, 1):
-        print(f"\n[Incidencia de Auditoría #{i}]")
-        print(f"  - Fecha/Hora         : {inc['fecha_hora']}")
-        print(f"  - Causa              : {inc['causa']}")
-        print(f"  - Tratamiento        : {inc['tratamiento']}")
-        print(f"  - Responsable        : {inc['responsable']}")
-        print(f"  - Registros Afectados: {inc['registros_afectados']}")
+    df_bitacora = pd.DataFrame(bitacora_incidencias)
+    
+    # Configurar visualización limpia en Pandas
+    pd.set_option('display.max_rows', 10)
+    pd.set_option('display.max_columns', None)
+    pd.set_option('display.width', 1000)
+    
+    # Mostrar como tabla interactiva limitada a 10 filas en Jupyter
+    display(df_bitacora.head(10))
 
 # ==========================================
 # 5. PRUEBAS: VÁLIDA E INVÁLIDA DEL CONTROL

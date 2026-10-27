@@ -1,5 +1,6 @@
 """Parámetros centrales del proyecto (reglas de negocio, catálogos y supuestos)."""
 from pathlib import Path
+from sqlalchemy import create_engine
 
 RAIZ = Path(__file__).resolve().parent.parent
 DIR_DATA = RAIZ / "data"
@@ -8,6 +9,19 @@ DIR_OUT.mkdir(exist_ok=True)
 
 CSV_V0 = DIR_DATA / "Dataset_V0_C01_Permanencia.csv"
 TABLA_STAGING = "stg_PermanenciaEstudiantil"
+
+# ---------------- Configuración de Conexión a SQL Server ----------------
+SERVER = 'DESKTOP-G3NSGKO\\SQLEXPRESS'
+DATABASE = 'IntegradorVIII_URP'
+DRIVER = 'ODBC Driver 18 for SQL Server' # O Driver 17 según tengas instalado
+
+def obtener_conexion_engine():
+    """Crea y retorna el engine de SQLAlchemy para conectar con SQL Server."""
+    connection_string = (
+        f"mssql+pyodbc://@{SERVER}/{DATABASE}?"
+        f"driver={DRIVER}&trusted_connection=yes&encrypt=no"
+    )
+    return create_engine(connection_string)
 
 # ---------------- Catálogos oficiales (diccionario del expediente) ----------------
 CATALOGOS = {
