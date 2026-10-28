@@ -1,0 +1,6 @@
+codigo,politica,regla,dominio_cobit,responsable
+POL-ACC-01,Control de acceso por roles (RBAC),Mínimo privilegio: cada rol solo ve lo necesario,APO14 / BAI09,Custodio Técnico (TI)
+POL-PRIV-01,Seudonimización,El ID del estudiante se reemplaza por HMAC-SHA256 antes de analizar,APO14,Data Owner
+POL-CAL-01,Validación pre-ingreso,"Sin duplicados, valores en rango y fechas coherentes antes de entrar al pipeline",APO14,Data Steward
+POL-SEG-01,Uso con autorización,Solo se analizan registros con autorización de uso analítico,APO14,Data Owner
+POL-USO-01,Catálogos normalizados,Categorías únicas y oficiales (sin variantes de mayúsculas/espacios),APO14,Data Steward

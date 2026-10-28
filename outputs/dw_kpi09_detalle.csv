@@ -1,0 +1,18 @@
+dimension,segmento,estudiantes,no_continuan,tasa_pct
+semestre,2025-S1,3060,1370,44.77
+semestre,2025-S2,3075,1327,43.15
+semestre,2026-S1,3049,1337,43.85
+modalidad,Por encuentros,2720,1135,41.73
+modalidad,Presencial,3000,1204,40.13
+modalidad,Sin dato,216,100,46.3
+modalidad,Virtual,3248,1595,49.11
+programa_academico,Civil,1674,717,42.83
+programa_academico,Computación,1582,753,47.6
+programa_academico,Industrial,1958,868,44.33
+programa_academico,Sistemas,2056,873,42.46
+programa_academico,Telecomunicaciones,1914,823,43.0
+condicion_ingreso,Continuidad,4499,1876,41.7
+condicion_ingreso,Nuevo ingreso,2802,1306,46.61
+condicion_ingreso,Reingreso,1066,512,48.03
+condicion_ingreso,Sin dato,90,45,50.0
+condicion_ingreso,Traslado,727,295,40.58

@@ -1,144 +1,48 @@
-import pandas as pd
-import hashlib
-from datetime import datetime
+"""Validación, bitácora y auditoría (ciclo PHVA) — reporte legible para consola o notebook.
 
-print("==================================================")
-print("   SISTEMA DE VALIDACIÓN, BITÁCORA Y AUDITORÍA URP")
-print("==================================================")
+Antes era un script que se ejecutaba al abrirlo y SOBRESCRIBÍA outputs/dw_permanencia_predictivo.csv
+(dejándolo sin las columnas que necesita el cuaderno). Ahora solo calcula y muestra; guardar lo hace main.py.
 
-# ==========================================
-# 1. VALIDADOR Y CONFIGURACIÓN DE BITÁCORA
-# ==========================================
-bitacora_incidencias = []
+USO desde la consola:   python -m etl.validador_phva
+"""
+from .policies import (generar_bitacora, indicadores_phva, ejecutar_pruebas_control, generar_evidencia)
 
-def registrar_incidencia(causa, tratamiento, responsable, registros_afectados):
-    """Registra de manera estructurada cada anomalía detectada para la auditoría."""
-    bitacora_incidencias.append({
-        'fecha_hora': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-        'causa': causa,
-        'tratamiento': tratamiento,
-        'responsable': responsable,
-        'registros_afectados': registros_afectados
-    })
 
-# --- CARGA DIRECTA DEL DATASET BRUTO (v0) ---
-ruta_dataset = 'data/Dataset_V0_C01_Permanencia.csv'
+def mostrar(df, titulo=None):
+    """display() en Jupyter; print() en consola."""
+    if titulo:
+        print(f"\n=== {titulo} ===")
+    try:
+        from IPython import get_ipython
+        if get_ipython().__class__.__name__ == "ZMQInteractiveShell":      # dentro de un notebook
+            from IPython.display import display
+            display(df)
+            return
+    except Exception:
+        pass
+    print(df.to_string(index=False, max_colwidth=70))
 
-try:
-    df_v0 = pd.read_csv(ruta_dataset)
-    print(f"\n[OK] Dataset v0 cargado exitosamente desde: {ruta_dataset}")
-except FileNotFoundError:
-    print(f"\n[ERROR] No se encontró el archivo en {ruta_dataset}. Verifique la ruta.")
-    # Si estás en un notebook y prefieres no salirte con exit(), puedes usar return o dejarlo así.
 
-# ==========================================
-# 2. INDICADORES ANTES (CICLO PHVA - PLANIFICAR)
-# ==========================================
-total_inicial = len(df_v0)
-completitud_antes = ((df_v0.notnull().sum().sum()) / df_v0.size) * 100
+def ejecutar_validacion(v0, diag, v1_real, v1_seud, n_pendientes, verbose=True):
+    bitacora = generar_bitacora(v0, diag, n_pendientes, len(v1_seud))
+    phva = indicadores_phva(v0, diag, v1_real, v1_seud)
+    pruebas = ejecutar_pruebas_control()
+    evidencia = generar_evidencia(v0, diag, v1_real, v1_seud)
+    if verbose:
+        print("=" * 62, "\n  VALIDACIÓN, BITÁCORA Y AUDITORÍA URP (CICLO PHVA)\n", "=" * 62, sep="")
+        mostrar(phva[["indicador", "antes", "despues", "meta", "estado"]], "INDICADORES ANTES → DESPUÉS")
+        mostrar(bitacora[["politica", "causa", "responsable", "registros_afectados"]], "BITÁCORA DE INCIDENCIAS")
+        mostrar(pruebas[["prueba", "datos", "resultado_control", "aprobada"]], "PRUEBAS VÁLIDA E INVÁLIDA DEL CONTROL")
+    return {"bitacora": bitacora, "phva": phva, "pruebas": pruebas, "evidencia": evidencia}
 
-col_id = 'id_estudiante_periodo' if 'id_estudiante_periodo' in df_v0.columns else 'id_estudiante'
-duplicados_antes = df_v0.duplicated(subset=[col_id]).sum()
 
-col_nota = 'promedio_periodo' if 'promedio_periodo' in df_v0.columns else 'promedio_nota'
-if col_nota in df_v0.columns:
-    fuera_rango_antes = len(df_v0[(df_v0[col_nota] < 0) | (df_v0[col_nota] > 100)])
-else:
-    fuera_rango_antes = 0
-
-print(f"\n--- EVALUACIÓN AS-IS (ANTES) ---")
-print(f"-> Total registros analizados (Dataset v0): {total_inicial}")
-print(f"-> Tasa de Completitud inicial: {completitud_antes:.2f}%")
-print(f"-> Duplicados detectados en {col_id}: {duplicados_antes}")
-print(f"-> Registros fuera de rango en {col_nota}: {fuera_rango_antes}\n")
-
-# ==========================================
-# 3. ACCIÓN CORRECTIVA Y VERSIÓN DERIVADA (Dataset v1)
-# ==========================================
-df_v1 = df_v0.copy()
-
-# 3.1 Tratamiento de duplicados
-if duplicados_antes > 0:
-    registrar_incidencia(
-        causa="Registros duplicados en la extracción de fuentes origen",
-        tratamiento=f"Eliminación de filas duplicadas en {col_id}",
-        responsable="Custodio Técnico de TI",
-        registros_afectados=int(duplicados_antes)
-    )
-    df_v1 = df_v1.drop_duplicates(subset=[col_id])
-
-# 3.2 Control de datos fuera de rango (0-100)
-if fuera_rango_antes > 0 and col_nota in df_v1.columns:
-    registrar_incidencia(
-        causa="Calificación superior al límite máximo académico (>100) o negativa",
-        tratamiento="Filtrado y exclusión del registro inconsistente para evitar sesgos",
-        responsable="Data Steward",
-        registros_afectados=int(fuera_rango_antes)
-    )
-    df_v1 = df_v1[(df_v1[col_nota] >= 0) & (df_v1[col_nota] <= 100)]
-
-# 3.3 Tratamiento de nulos (Imputación por mediana si aplica)
-if col_nota in df_v1.columns:
-    nulos_notas = df_v1[col_nota].isnull().sum()
-    if nulos_notas > 0:
-        mediana_notas = df_v1[col_nota].median()
-        df_v1[col_nota].fillna(mediana_notas, inplace=True)
-        registrar_incidencia(
-            causa=f"Presencia de vacíos (nulos) en la variable {col_nota}",
-            tratamiento=f"Imputación estadística por la mediana ({mediana_notas:.2f})",
-            responsable="Analista de Datos",
-            registros_afectados=int(nulos_notas)
-        )
-
-# 3.4 Seudonimización obligatoria con SHA-256 (POL-PRIV-01)
-if col_id in df_v1.columns:
-    df_v1[col_id] = df_v1[col_id].apply(lambda x: hashlib.sha256(str(x).encode()).hexdigest())
-
-# Guardar la versión derivada depurada
-df_v1.to_csv('outputs/dw_permanencia_predictivo.csv', index=False)
-
-# ==========================================
-# 4. INDICADORES DESPUÉS Y VISUALIZACIÓN TABULAR
-# ==========================================
-completitud_despues = ((df_v1.notnull().sum().sum()) / df_v1.size) * 100
-total_final = len(df_v1)
-
-print(f"--- EVALUACIÓN TO-BE (DESPUÉS - PHVA) ---")
-print(f"-> Total registros limpios (Dataset v1): {total_final}")
-print(f"-> Tasa de Completitud final: {completitud_despues:.2f}%")
-print(f"-> Nivel de Seudonimización SHA-256: 100%")
-print(f"-> Decisión basada en evidencia: Dataset validado y exportado a outputs/.\n")
-
-print("=== BITÁCORA E INFORME DE AUDITORÍA (TABLA DE CONTROL) ===")
-
-# Convertir la lista de incidencias en un DataFrame para mostrarlo ordenado en el Notebook
-if len(bitacora_incidencias) == 0:
-    print("No se registraron incidencias en esta ejecución.")
-else:
-    df_bitacora = pd.DataFrame(bitacora_incidencias)
-    
-    # Configurar visualización limpia en Pandas
-    pd.set_option('display.max_rows', 10)
-    pd.set_option('display.max_columns', None)
-    pd.set_option('display.width', 1000)
-    
-    # Mostrar como tabla interactiva limitada a 10 filas en Jupyter
-    display(df_bitacora.head(10))
-
-# ==========================================
-# 5. PRUEBAS: VÁLIDA E INVÁLIDA DEL CONTROL
-# ==========================================
-def probar_validador(registro):
-    """Demostración en vivo de pruebas válida e inválida para auditoría."""
-    nota = registro.get(col_nota, 85)
-    if nota is None or nota < 0 or nota > 100:
-        return f"[PRUEBA FALLIDA] Detectó anomalía: {col_nota}={nota} viola el rango operativo (0-100)."
-    return f"[PRUEBA EXITOSA] {col_nota}={nota} cumple con las reglas de calidad."
-
-print("\n--- DEMOSTRACIÓN DE PRUEBAS DE CONTROL ---")
-prueba_valida = {col_id: 'EST-999', col_nota: 88}
-prueba_invalida = {col_id: 'EST-888', col_nota: 135}
-
-print(f"Prueba 1 (Caso Válido)  : {probar_validador(prueba_valida)}")
-print(f"Prueba 2 (Caso Inválido): {probar_validador(prueba_invalida)}")
-print("==================================================")
+if __name__ == "__main__":
+    from .extract import leer_v0
+    from .transform import diagnosticar_calidad, aplicar_gobierno
+    from .features import construir_features
+    from .policies import aplicar_seudonimizacion
+    v0 = leer_v0()
+    diag = diagnosticar_calidad(v0)
+    limpio, rechazos, pend = aplicar_gobierno(v0)
+    v1 = construir_features(limpio)
+    ejecutar_validacion(v0, diag, v1, aplicar_seudonimizacion(v1), len(pend))

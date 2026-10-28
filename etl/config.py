@@ -1,6 +1,5 @@
 """Parámetros centrales del proyecto (reglas de negocio, catálogos y supuestos)."""
 from pathlib import Path
-from sqlalchemy import create_engine
 
 RAIZ = Path(__file__).resolve().parent.parent
 DIR_DATA = RAIZ / "data"
@@ -10,18 +9,10 @@ DIR_OUT.mkdir(exist_ok=True)
 CSV_V0 = DIR_DATA / "Dataset_V0_C01_Permanencia.csv"
 TABLA_STAGING = "stg_PermanenciaEstudiantil"
 
-# ---------------- Configuración de Conexión a SQL Server ----------------
-SERVER = 'DESKTOP-G3NSGKO\\SQLEXPRESS'
-DATABASE = 'IntegradorVIII_URP'
-DRIVER = 'ODBC Driver 18 for SQL Server' # O Driver 17 según tengas instalado
-
-def obtener_conexion_engine():
-    """Crea y retorna el engine de SQLAlchemy para conectar con SQL Server."""
-    connection_string = (
-        f"mssql+pyodbc://@{SERVER}/{DATABASE}?"
-        f"driver={DRIVER}&trusted_connection=yes&encrypt=no"
-    )
-    return create_engine(connection_string)
+# ---------------- Conexión a SQL Server (valores por defecto; el archivo .env los sobreescribe) ----------------
+SERVER = "DESKTOP-G3NSGKO\\SQLEXPRESS"
+DATABASE = "IntegradorVIII_URP"
+DRIVER = "ODBC Driver 17 for SQL Server"
 
 # ---------------- Catálogos oficiales (diccionario del expediente) ----------------
 CATALOGOS = {
@@ -47,7 +38,7 @@ CAMPOS_CRITICOS = ["modalidad", "condicion_ingreso", "beca_o_apoyo", "promedio_p
                    "autorizacion_uso_analitico"]
 
 # ---------------- PARÁMETROS DE GOBIERNO Y POLÍTICAS (POL-SEG / POL-CAL) ----------------
-ALGORITMO_SEUDONIMIZACION = "SHA-256"
+ALGORITMO_SEUDONIMIZACION = "HMAC-SHA256"   # SHA-256 con clave secreta (POLITICA_CLAVE en .env)
 UMBRAL_MINIMO_SEUDONIMIZACION_PCT = 100.0
 
 # ---------------- SUPUESTOS (documentar y validar con la URP) ----------------

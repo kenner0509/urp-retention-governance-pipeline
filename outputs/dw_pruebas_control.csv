@@ -1,0 +1,5 @@
+prueba,registro,datos,resultado_control,esperado,aprobada
+Prueba 1 · válida,EST-999,"promedio=88, asistencia=92",ACEPTADO,ACEPTADO,True
+Prueba 2 · inválida,EST-888,"promedio=135, asistencia=92",RECHAZADO: promedio_periodo=135 fuera del rango 48–96,RECHAZADO,True
+Prueba 3 · inválida,EST-777,"promedio=80, asistencia=150",RECHAZADO: asistencia_pct=150 fuera del rango 35–100,RECHAZADO,True
+Prueba 4 · válida,EST-666,"promedio=55, asistencia=40",ACEPTADO,ACEPTADO,True

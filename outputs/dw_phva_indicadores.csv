@@ -1,0 +1,8 @@
+indicador,antes,despues,meta,estado,nota
+Registros totales,10000.0,9184.0,—,CUMPLE,"El dataset analítico excluye duplicados, sin autorización y sin resultado consolidado"
+Completitud de celdas críticas (%),98.05,97.7,≥ 97%,CUMPLE,Baja levemente porque los valores inválidos pasan a vacío; el modelo los imputa (completitud utilizable 100%)
+Registros duplicados,198.0,0.0,0,CUMPLE,
+Valores fuera de rango (registros),351.0,0.0,0,CUMPLE,
+Etiquetas fuera de catálogo (registros),115.0,0.0,0,CUMPLE,
+Registros sin autorización de uso,455.0,0.0,0,CUMPLE,
+IDs sin seudonimizar (%),100.0,0.0,0%,CUMPLE,
