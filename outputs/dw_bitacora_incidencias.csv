@@ -1,14 +1,14 @@
 fecha_hora,politica,causa,tratamiento,responsable,registros_afectados
-2026-10-27 21:33:51,POL-CAL-01,Registros duplicados en la extracción de fuentes origen,Eliminación de filas duplicadas (se conserva la primera ocurrencia),Custodio Técnico (TI),198
-2026-10-27 21:33:51,POL-CAL-01,promedio_periodo fuera del rango esperado 48–96,Valor vaciado + bandera flag_fuera_rango_*; se imputa con la mediana DENTRO del modelo (no se borra el registro),Data Steward,117
-2026-10-27 21:33:51,POL-CAL-01,asistencia_pct fuera del rango esperado 35–100,Valor vaciado + bandera flag_fuera_rango_*; se imputa con la mediana DENTRO del modelo (no se borra el registro),Data Steward,96
-2026-10-27 21:33:51,POL-CAL-01,accesos_campus_virtual fuera del rango esperado 0–180,Valor vaciado + bandera flag_fuera_rango_*; se imputa con la mediana DENTRO del modelo (no se borra el registro),Data Steward,79
-2026-10-27 21:33:51,POL-CAL-01,asignaturas_reprobadas fuera del rango esperado 0–5,Valor vaciado + bandera flag_fuera_rango_*; se imputa con la mediana DENTRO del modelo (no se borra el registro),Data Steward,61
-2026-10-27 21:33:51,POL-USO-01,"Etiquetas de catálogo con mayúsculas, espacios o variantes",Normalización al catálogo oficial,Data Steward,115
-2026-10-27 21:33:51,POL-SEG-01,Registros sin autorización de uso analítico,Exclusión del análisis (quedan en stg_rechazos_calidad),Data Owner,455
-2026-10-27 21:33:51,Calidad,Valores nulos en promedio_periodo,Se marcan; imputación por mediana dentro del modelo (sin fuga de datos),Analista de Datos,295
-2026-10-27 21:33:51,Calidad,Valores nulos en asistencia_pct,Se marcan; imputación por mediana dentro del modelo (sin fuga de datos),Analista de Datos,307
-2026-10-27 21:33:51,Calidad,Valores nulos en accesos_campus_virtual,Se marcan; imputación por mediana dentro del modelo (sin fuga de datos),Analista de Datos,205
-2026-10-27 21:33:51,Calidad,Valores nulos en asignaturas_reprobadas,Se marcan; imputación por mediana dentro del modelo (sin fuga de datos),Analista de Datos,150
-2026-10-27 21:33:51,Calidad,Resultado del siguiente periodo aún no consolidado,No entran a entrenamiento; se puntúan como estudiantes pendientes,Analista de Datos,171
-2026-10-27 21:33:51,POL-PRIV-01,Identificadores directos del estudiante en el dato crudo,Seudonimización HMAC-SHA256,Custodio Técnico (TI),9184
+2026-10-30 21:56:13,POL-CAL-01,Registros duplicados en la extracción de fuentes origen,Eliminación de filas duplicadas (se conserva la primera ocurrencia),Custodio Técnico (TI),198
+2026-10-30 21:56:13,POL-CAL-01,promedio_periodo fuera del rango esperado 48–96,Valor vaciado + bandera flag_fuera_rango_*; se imputa con la mediana DENTRO del modelo (no se borra el registro),Data Steward,117
+2026-10-30 21:56:13,POL-CAL-01,asistencia_pct fuera del rango esperado 35–100,Valor vaciado + bandera flag_fuera_rango_*; se imputa con la mediana DENTRO del modelo (no se borra el registro),Data Steward,96
+2026-10-30 21:56:13,POL-CAL-01,accesos_campus_virtual fuera del rango esperado 0–180,Valor vaciado + bandera flag_fuera_rango_*; se imputa con la mediana DENTRO del modelo (no se borra el registro),Data Steward,79
+2026-10-30 21:56:13,POL-CAL-01,asignaturas_reprobadas fuera del rango esperado 0–5,Valor vaciado + bandera flag_fuera_rango_*; se imputa con la mediana DENTRO del modelo (no se borra el registro),Data Steward,61
+2026-10-30 21:56:13,POL-USO-01,"Etiquetas de catálogo con mayúsculas, espacios o variantes",Normalización al catálogo oficial,Data Steward,115
+2026-10-30 21:56:13,POL-SEG-01,Registros sin autorización de uso analítico,Exclusión del análisis (quedan en stg_rechazos_calidad),Data Owner,455
+2026-10-30 21:56:13,Calidad,Valores nulos en promedio_periodo,Se marcan; imputación por mediana dentro del modelo (sin fuga de datos),Analista de Datos,295
+2026-10-30 21:56:13,Calidad,Valores nulos en asistencia_pct,Se marcan; imputación por mediana dentro del modelo (sin fuga de datos),Analista de Datos,307
+2026-10-30 21:56:13,Calidad,Valores nulos en accesos_campus_virtual,Se marcan; imputación por mediana dentro del modelo (sin fuga de datos),Analista de Datos,205
+2026-10-30 21:56:13,Calidad,Valores nulos en asignaturas_reprobadas,Se marcan; imputación por mediana dentro del modelo (sin fuga de datos),Analista de Datos,150
+2026-10-30 21:56:13,Calidad,Resultado del siguiente periodo aún no consolidado,No entran a entrenamiento; se puntúan como estudiantes pendientes,Analista de Datos,171
+2026-10-30 21:56:13,POL-PRIV-01,Identificadores directos del estudiante en el dato crudo,Seudonimización HMAC-SHA256,Custodio Técnico (TI),9184
